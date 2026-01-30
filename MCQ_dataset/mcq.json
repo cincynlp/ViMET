@@ -1,0 +1,7030 @@
+[
+  {
+    "image": "abandon",
+    "Option A": "abandon",
+    "Option B": "moratorium",
+    "Option C": "deterioration",
+    "Option D": "inspiration"
+  },
+  {
+    "image": "abhorrence",
+    "Option A": "abhorrence",
+    "Option B": "whole",
+    "Option C": "glance",
+    "Option D": "revolutionary"
+  },
+  {
+    "image": "ability",
+    "Option A": "know",
+    "Option B": "ability",
+    "Option C": "consciousness",
+    "Option D": "recall"
+  },
+  {
+    "image": "absence",
+    "Option A": "significance",
+    "Option B": "timid",
+    "Option C": "wonder",
+    "Option D": "absence"
+  },
+  {
+    "image": "abstract",
+    "Option A": "motley",
+    "Option B": "abstract",
+    "Option C": "regular",
+    "Option D": "living"
+  },
+  {
+    "image": "absurd",
+    "Option A": "absurd",
+    "Option B": "uncertainty",
+    "Option C": "progression",
+    "Option D": "difficulty"
+  },
+  {
+    "image": "abundance",
+    "Option A": "abundance",
+    "Option B": "noel",
+    "Option C": "holiday",
+    "Option D": "gusto"
+  },
+  {
+    "image": "academia",
+    "Option A": "lesson",
+    "Option B": "institute",
+    "Option C": "academia",
+    "Option D": "reference"
+  },
+  {
+    "image": "academic",
+    "Option A": "compound",
+    "Option B": "method",
+    "Option C": "academic",
+    "Option D": "genome"
+  },
+  {
+    "image": "acceleration",
+    "Option A": "heading",
+    "Option B": "longer",
+    "Option C": "altitude",
+    "Option D": "acceleration"
+  },
+  {
+    "image": "acceptance",
+    "Option A": "institute",
+    "Option B": "excuse",
+    "Option C": "acceptance",
+    "Option D": "possess"
+  },
+  {
+    "image": "access",
+    "Option A": "limitation",
+    "Option B": "exclusion",
+    "Option C": "access",
+    "Option D": "possess"
+  },
+  {
+    "image": "accordance",
+    "Option A": "institute",
+    "Option B": "understanding",
+    "Option C": "consortium",
+    "Option D": "accordance"
+  },
+  {
+    "image": "account",
+    "Option A": "number",
+    "Option B": "rate",
+    "Option C": "calculation",
+    "Option D": "account"
+  },
+  {
+    "image": "accounting",
+    "Option A": "commission",
+    "Option B": "thursday",
+    "Option C": "creditor",
+    "Option D": "accounting"
+  },
+  {
+    "image": "accumulation",
+    "Option A": "creditor",
+    "Option B": "inducement",
+    "Option C": "accumulation",
+    "Option D": "credit"
+  },
+  {
+    "image": "accuracy",
+    "Option A": "accuracy",
+    "Option B": "repair",
+    "Option C": "equal",
+    "Option D": "fix"
+  },
+  {
+    "image": "accused",
+    "Option A": "judge",
+    "Option B": "decree",
+    "Option C": "accused",
+    "Option D": "divorce"
+  },
+  {
+    "image": "achievement",
+    "Option A": "dedication",
+    "Option B": "merit",
+    "Option C": "achievement",
+    "Option D": "competence"
+  },
+  {
+    "image": "acquaintance",
+    "Option A": "office",
+    "Option B": "acquaintance",
+    "Option C": "accounting",
+    "Option D": "administration"
+  },
+  {
+    "image": "acquisition",
+    "Option A": "commission",
+    "Option B": "acquisition",
+    "Option C": "trustee",
+    "Option D": "partnership"
+  },
+  {
+    "image": "act",
+    "Option A": "renoun",
+    "Option B": "personality",
+    "Option C": "progression",
+    "Option D": "act"
+  },
+  {
+    "image": "acting",
+    "Option A": "listening",
+    "Option B": "acting",
+    "Option C": "seminar",
+    "Option D": "producer"
+  },
+  {
+    "image": "action",
+    "Option A": "move",
+    "Option B": "silence",
+    "Option C": "emotion",
+    "Option D": "action"
+  },
+  {
+    "image": "activation",
+    "Option A": "clustering",
+    "Option B": "activation",
+    "Option C": "association",
+    "Option D": "recall"
+  },
+  {
+    "image": "activity",
+    "Option A": "activity",
+    "Option B": "vitality",
+    "Option C": "habit",
+    "Option D": "fit"
+  },
+  {
+    "image": "acts",
+    "Option A": "framework",
+    "Option B": "frame",
+    "Option C": "picture",
+    "Option D": "module"
+  },
+  {
+    "image": "acute",
+    "Option A": "patient",
+    "Option B": "acute",
+    "Option C": "doctor",
+    "Option D": "medical"
+  },
+  {
+    "image": "add",
+    "Option A": "add",
+    "Option B": "finding",
+    "Option C": "criteria",
+    "Option D": "assessment"
+  },
+  {
+    "image": "administration",
+    "Option A": "professionalization",
+    "Option B": "administration",
+    "Option C": "consortium",
+    "Option D": "patriarchy"
+  },
+  {
+    "image": "adolescence",
+    "Option A": "endpoint",
+    "Option B": "let",
+    "Option C": "adolescence",
+    "Option D": "emotion"
+  },
+  {
+    "image": "adoration",
+    "Option A": "springtime",
+    "Option B": "adoration",
+    "Option C": "euphoria",
+    "Option D": "anniversary"
+  },
+  {
+    "image": "advantage",
+    "Option A": "incentive",
+    "Option B": "fame",
+    "Option C": "reputation",
+    "Option D": "advantage"
+  },
+  {
+    "image": "adventure",
+    "Option A": "territorial",
+    "Option B": "adventure",
+    "Option C": "orientation",
+    "Option D": "apex"
+  },
+  {
+    "image": "advice",
+    "Option A": "discovery",
+    "Option B": "loathing",
+    "Option C": "initial",
+    "Option D": "advice"
+  },
+  {
+    "image": "advocate",
+    "Option A": "legislation",
+    "Option B": "trusteeship",
+    "Option C": "justification",
+    "Option D": "advocate"
+  },
+  {
+    "image": "aeration",
+    "Option A": "aeration",
+    "Option B": "frequency",
+    "Option C": "photosynthesis",
+    "Option D": "mitosis"
+  },
+  {
+    "image": "aerospace",
+    "Option A": "existence",
+    "Option B": "invention",
+    "Option C": "discovery",
+    "Option D": "aerospace"
+  },
+  {
+    "image": "aesthetic",
+    "Option A": "sensation",
+    "Option B": "aesthetic",
+    "Option C": "development",
+    "Option D": "affect"
+  },
+  {
+    "image": "affair",
+    "Option A": "consolation",
+    "Option B": "love",
+    "Option C": "affair",
+    "Option D": "romance"
+  },
+  {
+    "image": "affection",
+    "Option A": "beloved",
+    "Option B": "proposal",
+    "Option C": "anniversary",
+    "Option D": "affection"
+  },
+  {
+    "image": "africa",
+    "Option A": "primitive",
+    "Option B": "africa",
+    "Option C": "hierarchy",
+    "Option D": "adaption"
+  },
+  {
+    "image": "afterlife",
+    "Option A": "killer",
+    "Option B": "almighty",
+    "Option C": "afterlife",
+    "Option D": "evil"
+  },
+  {
+    "image": "afternoons",
+    "Option A": "afternoons",
+    "Option B": "daily",
+    "Option C": "nostalgia",
+    "Option D": "contentment"
+  },
+  {
+    "image": "age",
+    "Option A": "recuperation",
+    "Option B": "age",
+    "Option C": "contentment",
+    "Option D": "disability"
+  },
+  {
+    "image": "aggravation",
+    "Option A": "latest",
+    "Option B": "complaint",
+    "Option C": "let",
+    "Option D": "aggravation"
+  },
+  {
+    "image": "aggression",
+    "Option A": "savage",
+    "Option B": "courage",
+    "Option C": "twinge",
+    "Option D": "aggression"
+  },
+  {
+    "image": "agitation",
+    "Option A": "glance",
+    "Option B": "agitation",
+    "Option C": "stress",
+    "Option D": "debt"
+  },
+  {
+    "image": "agony",
+    "Option A": "nostalgia",
+    "Option B": "stay",
+    "Option C": "stimulus",
+    "Option D": "agony"
+  },
+  {
+    "image": "aid",
+    "Option A": "manifest",
+    "Option B": "industry",
+    "Option C": "aid",
+    "Option D": "welfare"
+  },
+  {
+    "image": "alert",
+    "Option A": "alert",
+    "Option B": "doctor",
+    "Option C": "recuperation",
+    "Option D": "hospitalization"
+  },
+  {
+    "image": "alleviation",
+    "Option A": "possible",
+    "Option B": "starting",
+    "Option C": "bliss",
+    "Option D": "alleviation"
+  },
+  {
+    "image": "alliance",
+    "Option A": "partnership",
+    "Option B": "accordance",
+    "Option C": "administration",
+    "Option D": "alliance"
+  },
+  {
+    "image": "aloofness",
+    "Option A": "despair",
+    "Option B": "isolation",
+    "Option C": "silence",
+    "Option D": "aloofness"
+  },
+  {
+    "image": "alternative",
+    "Option A": "zen",
+    "Option B": "posture",
+    "Option C": "alternative",
+    "Option D": "morning"
+  },
+  {
+    "image": "altitude",
+    "Option A": "altitude",
+    "Option B": "acceleration",
+    "Option C": "airspeed",
+    "Option D": "optimum"
+  },
+  {
+    "image": "altogether",
+    "Option A": "altogether",
+    "Option B": "sociable",
+    "Option C": "born",
+    "Option D": "kindness"
+  },
+  {
+    "image": "ambition",
+    "Option A": "good",
+    "Option B": "forefront",
+    "Option C": "superiority",
+    "Option D": "ambition"
+  },
+  {
+    "image": "ambivalence",
+    "Option A": "ambivalence",
+    "Option B": "sorrow",
+    "Option C": "menopause",
+    "Option D": "weakness"
+  },
+  {
+    "image": "amendment",
+    "Option A": "decision",
+    "Option B": "amendment",
+    "Option C": "reform",
+    "Option D": "lawyer"
+  },
+  {
+    "image": "amusement",
+    "Option A": "fool",
+    "Option B": "excitement",
+    "Option C": "amusement",
+    "Option D": "amazement"
+  },
+  {
+    "image": "analysis",
+    "Option A": "analysis",
+    "Option B": "criteria",
+    "Option C": "creditor",
+    "Option D": "workweek"
+  },
+  {
+    "image": "ancestors",
+    "Option A": "readership",
+    "Option B": "chapter",
+    "Option C": "significance",
+    "Option D": "ancestors"
+  },
+  {
+    "image": "ancestry",
+    "Option A": "distance",
+    "Option B": "whereabouts",
+    "Option C": "hour",
+    "Option D": "ancestry"
+  },
+  {
+    "image": "ancient",
+    "Option A": "ancient",
+    "Option B": "myth",
+    "Option C": "forefront",
+    "Option D": "importance"
+  },
+  {
+    "image": "anemia",
+    "Option A": "anemia",
+    "Option B": "weakness",
+    "Option C": "urge",
+    "Option D": "importance"
+  },
+  {
+    "image": "anesthesia",
+    "Option A": "acute",
+    "Option B": "anesthesia",
+    "Option C": "curing",
+    "Option D": "alert"
+  },
+  {
+    "image": "anger",
+    "Option A": "anger",
+    "Option B": "concern",
+    "Option C": "antipathy",
+    "Option D": "grudge"
+  },
+  {
+    "image": "anguish",
+    "Option A": "anguish",
+    "Option B": "antipathy",
+    "Option C": "pessimism",
+    "Option D": "weakness"
+  },
+  {
+    "image": "animosity",
+    "Option A": "aggression",
+    "Option B": "personality",
+    "Option C": "animosity",
+    "Option D": "brooding"
+  },
+  {
+    "image": "anniversary",
+    "Option A": "anniversary",
+    "Option B": "romantic",
+    "Option C": "desire",
+    "Option D": "affection"
+  },
+  {
+    "image": "annunciation",
+    "Option A": "hereafter",
+    "Option B": "morality",
+    "Option C": "ascension",
+    "Option D": "annunciation"
+  },
+  {
+    "image": "answer",
+    "Option A": "assessment",
+    "Option B": "guess",
+    "Option C": "answer",
+    "Option D": "confusion"
+  },
+  {
+    "image": "antarctic",
+    "Option A": "aloofness",
+    "Option B": "may",
+    "Option C": "solitary",
+    "Option D": "antarctic"
+  },
+  {
+    "image": "anticipation",
+    "Option A": "nanosecond",
+    "Option B": "moment",
+    "Option C": "millisecond",
+    "Option D": "anticipation"
+  },
+  {
+    "image": "antiquity",
+    "Option A": "wonder",
+    "Option B": "over",
+    "Option C": "philosophy",
+    "Option D": "antiquity"
+  },
+  {
+    "image": "apostle",
+    "Option A": "apostle",
+    "Option B": "worship",
+    "Option C": "veneration",
+    "Option D": "repentance"
+  },
+  {
+    "image": "appeal",
+    "Option A": "appeal",
+    "Option B": "category",
+    "Option C": "bohemia",
+    "Option D": "sensitive"
+  },
+  {
+    "image": "appearance",
+    "Option A": "orderly",
+    "Option B": "repair",
+    "Option C": "essence",
+    "Option D": "appearance"
+  },
+  {
+    "image": "appetite",
+    "Option A": "stimulus",
+    "Option B": "dawning",
+    "Option C": "appetite",
+    "Option D": "chef"
+  },
+  {
+    "image": "appointment",
+    "Option A": "appointment",
+    "Option B": "ready",
+    "Option C": "criteria",
+    "Option D": "nowadays"
+  },
+  {
+    "image": "appreciation",
+    "Option A": "yearning",
+    "Option B": "sensitiveness",
+    "Option C": "offering",
+    "Option D": "appreciation"
+  },
+  {
+    "image": "approach",
+    "Option A": "limitation",
+    "Option B": "approach",
+    "Option C": "difficulty",
+    "Option D": "exile"
+  },
+  {
+    "image": "approval",
+    "Option A": "willing",
+    "Option B": "exultation",
+    "Option C": "confidence",
+    "Option D": "approval"
+  },
+  {
+    "image": "architect",
+    "Option A": "repair",
+    "Option B": "architect",
+    "Option C": "labor",
+    "Option D": "making"
+  },
+  {
+    "image": "arctic",
+    "Option A": "charter",
+    "Option B": "arctic",
+    "Option C": "backwoods",
+    "Option D": "tonight"
+  },
+  {
+    "image": "aristocracy",
+    "Option A": "reign",
+    "Option B": "egomania",
+    "Option C": "chosen",
+    "Option D": "aristocracy"
+  },
+  {
+    "image": "armageddon",
+    "Option A": "intensity",
+    "Option B": "armageddon",
+    "Option C": "instability",
+    "Option D": "radioactivity"
+  },
+  {
+    "image": "arrangement",
+    "Option A": "romantic",
+    "Option B": "desire",
+    "Option C": "arrangement",
+    "Option D": "married"
+  },
+  {
+    "image": "arrival",
+    "Option A": "nationality",
+    "Option B": "municipality",
+    "Option C": "arrival",
+    "Option D": "delay"
+  },
+  {
+    "image": "ascension",
+    "Option A": "ascension",
+    "Option B": "holy",
+    "Option C": "annunciation",
+    "Option D": "hereafter"
+  },
+  {
+    "image": "assortment",
+    "Option A": "abstract",
+    "Option B": "assortment",
+    "Option C": "deflation",
+    "Option D": "invention"
+  },
+  {
+    "image": "assumption",
+    "Option A": "thought",
+    "Option B": "problem",
+    "Option C": "assumption",
+    "Option D": "answer"
+  },
+  {
+    "image": "assurance",
+    "Option A": "architect",
+    "Option B": "manpower",
+    "Option C": "repair",
+    "Option D": "assurance"
+  },
+  {
+    "image": "attempt",
+    "Option A": "attempt",
+    "Option B": "worry",
+    "Option C": "lean",
+    "Option D": "breather"
+  },
+  {
+    "image": "authoritarianism",
+    "Option A": "authoritarianism",
+    "Option B": "defeated",
+    "Option C": "editorial",
+    "Option D": "soviet"
+  },
+  {
+    "image": "autocracy",
+    "Option A": "chosen",
+    "Option B": "autocracy",
+    "Option C": "majesty",
+    "Option D": "supremacy"
+  },
+  {
+    "image": "autonomy",
+    "Option A": "way",
+    "Option B": "challenge",
+    "Option C": "limit",
+    "Option D": "autonomy"
+  },
+  {
+    "image": "autumn",
+    "Option A": "farm",
+    "Option B": "november",
+    "Option C": "abundance",
+    "Option D": "autumn"
+  },
+  {
+    "image": "awareness",
+    "Option A": "awareness",
+    "Option B": "quiet",
+    "Option C": "zen",
+    "Option D": "alleviation"
+  },
+  {
+    "image": "awe",
+    "Option A": "acclimation",
+    "Option B": "leeway",
+    "Option C": "reserve",
+    "Option D": "awe"
+  },
+  {
+    "image": "babyhood",
+    "Option A": "babyhood",
+    "Option B": "play",
+    "Option C": "born",
+    "Option D": "joy"
+  },
+  {
+    "image": "backup",
+    "Option A": "memory",
+    "Option B": "type",
+    "Option C": "backup",
+    "Option D": "salient"
+  },
+  {
+    "image": "baffled",
+    "Option A": "answer",
+    "Option B": "exasperation",
+    "Option C": "inquiry",
+    "Option D": "baffled"
+  },
+  {
+    "image": "balance",
+    "Option A": "legislation",
+    "Option B": "balance",
+    "Option C": "decision",
+    "Option D": "advocate"
+  },
+  {
+    "image": "bankruptcy",
+    "Option A": "dispute",
+    "Option B": "bid",
+    "Option C": "bankruptcy",
+    "Option D": "justification"
+  },
+  {
+    "image": "baroque",
+    "Option A": "score",
+    "Option B": "ease",
+    "Option C": "harmony",
+    "Option D": "baroque"
+  },
+  {
+    "image": "barren",
+    "Option A": "zenith",
+    "Option B": "way",
+    "Option C": "wrath",
+    "Option D": "barren"
+  },
+  {
+    "image": "basic",
+    "Option A": "intellectual",
+    "Option B": "idle",
+    "Option C": "basic",
+    "Option D": "thursday"
+  },
+  {
+    "image": "beauty",
+    "Option A": "peace",
+    "Option B": "sensitive",
+    "Option C": "beauty",
+    "Option D": "unity"
+  },
+  {
+    "image": "bedtime",
+    "Option A": "gloom",
+    "Option B": "sadness",
+    "Option C": "lull",
+    "Option D": "bedtime"
+  },
+  {
+    "image": "belief",
+    "Option A": "prayer",
+    "Option B": "belief",
+    "Option C": "religion",
+    "Option D": "repentance"
+  },
+  {
+    "image": "believing",
+    "Option A": "christianity",
+    "Option B": "god",
+    "Option C": "secular",
+    "Option D": "believing"
+  },
+  {
+    "image": "belonging",
+    "Option A": "intellectual",
+    "Option B": "slight",
+    "Option C": "possibility",
+    "Option D": "belonging"
+  },
+  {
+    "image": "beloved",
+    "Option A": "desire",
+    "Option B": "beloved",
+    "Option C": "affection",
+    "Option D": "sensitiveness"
+  },
+  {
+    "image": "benevolence",
+    "Option A": "courtesy",
+    "Option B": "benevolence",
+    "Option C": "society",
+    "Option D": "kindness"
+  },
+  {
+    "image": "best",
+    "Option A": "debate",
+    "Option B": "best",
+    "Option C": "dedication",
+    "Option D": "acting"
+  },
+  {
+    "image": "betrayal",
+    "Option A": "dominance",
+    "Option B": "belief",
+    "Option C": "embarrassment",
+    "Option D": "betrayal"
+  },
+  {
+    "image": "binding",
+    "Option A": "respect",
+    "Option B": "binding",
+    "Option C": "finding",
+    "Option D": "instrumentality"
+  },
+  {
+    "image": "biology",
+    "Option A": "microevolution",
+    "Option B": "synthesis",
+    "Option C": "biology",
+    "Option D": "compound"
+  },
+  {
+    "image": "birthday",
+    "Option A": "birthday",
+    "Option B": "jubilee",
+    "Option C": "delight",
+    "Option D": "present"
+  },
+  {
+    "image": "birthing",
+    "Option A": "ill",
+    "Option B": "alert",
+    "Option C": "hospitalization",
+    "Option D": "birthing"
+  },
+  {
+    "image": "bitterness",
+    "Option A": "bitterness",
+    "Option B": "willing",
+    "Option C": "presence",
+    "Option D": "complaint"
+  },
+  {
+    "image": "blank",
+    "Option A": "blank",
+    "Option B": "segmentation",
+    "Option C": "basic",
+    "Option D": "ellipsis"
+  },
+  {
+    "image": "bliss",
+    "Option A": "possible",
+    "Option B": "bliss",
+    "Option C": "sensitive",
+    "Option D": "alleviation"
+  },
+  {
+    "image": "bohemia",
+    "Option A": "expectation",
+    "Option B": "bohemia",
+    "Option C": "beauty",
+    "Option D": "romance"
+  },
+  {
+    "image": "bold",
+    "Option A": "sir",
+    "Option B": "bold",
+    "Option C": "heading",
+    "Option D": "dominant"
+  },
+  {
+    "image": "bore",
+    "Option A": "tomorrow",
+    "Option B": "exhaustion",
+    "Option C": "bore",
+    "Option D": "daily"
+  },
+  {
+    "image": "botany",
+    "Option A": "research",
+    "Option B": "testing",
+    "Option C": "biology",
+    "Option D": "botany"
+  },
+  {
+    "image": "bourgeois",
+    "Option A": "midair",
+    "Option B": "bourgeois",
+    "Option C": "status",
+    "Option D": "worthy"
+  },
+  {
+    "image": "brave",
+    "Option A": "strategy",
+    "Option B": "brave",
+    "Option C": "guardian",
+    "Option D": "empire"
+  },
+  {
+    "image": "brazil",
+    "Option A": "brazil",
+    "Option B": "tropic",
+    "Option C": "liberty",
+    "Option D": "civilization"
+  },
+  {
+    "image": "brethren",
+    "Option A": "holy",
+    "Option B": "divinity",
+    "Option C": "brethren",
+    "Option D": "religion"
+  },
+  {
+    "image": "buddhism",
+    "Option A": "buddhism",
+    "Option B": "enlightened",
+    "Option C": "concentration",
+    "Option D": "spiritual"
+  },
+  {
+    "image": "budding",
+    "Option A": "natural",
+    "Option B": "budding",
+    "Option C": "springtime",
+    "Option D": "saturation"
+  },
+  {
+    "image": "burden",
+    "Option A": "burden",
+    "Option B": "pessimism",
+    "Option C": "providence",
+    "Option D": "capture"
+  },
+  {
+    "image": "bureaucracy",
+    "Option A": "defeated",
+    "Option B": "bureaucracy",
+    "Option C": "salient",
+    "Option D": "subordinate"
+  },
+  {
+    "image": "business",
+    "Option A": "situation",
+    "Option B": "business",
+    "Option C": "corporation",
+    "Option D": "patriarchy"
+  },
+  {
+    "image": "bygone",
+    "Option A": "bygone",
+    "Option B": "threshold",
+    "Option C": "defect",
+    "Option D": "leaving"
+  },
+  {
+    "image": "calcification",
+    "Option A": "mitosis",
+    "Option B": "operation",
+    "Option C": "calcification",
+    "Option D": "coronary"
+  },
+  {
+    "image": "calling",
+    "Option A": "calling",
+    "Option B": "wane",
+    "Option C": "despondency",
+    "Option D": "single"
+  },
+  {
+    "image": "calm",
+    "Option A": "starting",
+    "Option B": "calm",
+    "Option C": "downtime",
+    "Option D": "seasonal"
+  },
+  {
+    "image": "capability",
+    "Option A": "desensitization",
+    "Option B": "topic",
+    "Option C": "capability",
+    "Option D": "know"
+  },
+  {
+    "image": "capitalism",
+    "Option A": "interest",
+    "Option B": "accumulation",
+    "Option C": "analysis",
+    "Option D": "capitalism"
+  },
+  {
+    "image": "capitalist",
+    "Option A": "capitalist",
+    "Option B": "cartel",
+    "Option C": "debt",
+    "Option D": "defeated"
+  },
+  {
+    "image": "captive",
+    "Option A": "captive",
+    "Option B": "insanity",
+    "Option C": "discomfort",
+    "Option D": "crime"
+  },
+  {
+    "image": "carbonization",
+    "Option A": "borderland",
+    "Option B": "carbonization",
+    "Option C": "adventure",
+    "Option D": "primitive"
+  },
+  {
+    "image": "care",
+    "Option A": "suffering",
+    "Option B": "secondary",
+    "Option C": "care",
+    "Option D": "feel"
+  },
+  {
+    "image": "career",
+    "Option A": "career",
+    "Option B": "enterprise",
+    "Option C": "business",
+    "Option D": "situation"
+  },
+  {
+    "image": "caring",
+    "Option A": "nature",
+    "Option B": "beauty",
+    "Option C": "caring",
+    "Option D": "significance"
+  },
+  {
+    "image": "cartel",
+    "Option A": "finance",
+    "Option B": "asset",
+    "Option C": "cartel",
+    "Option D": "demand"
+  },
+  {
+    "image": "catholic",
+    "Option A": "priesthood",
+    "Option B": "holy",
+    "Option C": "testament",
+    "Option D": "catholic"
+  },
+  {
+    "image": "century",
+    "Option A": "duration",
+    "Option B": "century",
+    "Option C": "reference",
+    "Option D": "moment"
+  },
+  {
+    "image": "challenge",
+    "Option A": "apex",
+    "Option B": "challenge",
+    "Option C": "optimum",
+    "Option D": "autonomy"
+  },
+  {
+    "image": "chance",
+    "Option A": "contingent",
+    "Option B": "odds",
+    "Option C": "chance",
+    "Option D": "probable"
+  },
+  {
+    "image": "chaos",
+    "Option A": "chaos",
+    "Option B": "trembling",
+    "Option C": "allies",
+    "Option D": "unpleasantness"
+  },
+  {
+    "image": "chapter",
+    "Option A": "intellectual",
+    "Option B": "logic",
+    "Option C": "chapter",
+    "Option D": "ancestors"
+  },
+  {
+    "image": "character",
+    "Option A": "mortification",
+    "Option B": "low",
+    "Option C": "character",
+    "Option D": "personality"
+  },
+  {
+    "image": "charity",
+    "Option A": "acquaintance",
+    "Option B": "kindness",
+    "Option C": "allies",
+    "Option D": "charity"
+  },
+  {
+    "image": "charter",
+    "Option A": "depth",
+    "Option B": "frequency",
+    "Option C": "beauty",
+    "Option D": "charter"
+  },
+  {
+    "image": "chef",
+    "Option A": "gusto",
+    "Option B": "spoiling",
+    "Option C": "chef",
+    "Option D": "absorption"
+  },
+  {
+    "image": "childhood",
+    "Option A": "playfulness",
+    "Option B": "june",
+    "Option C": "juvenile",
+    "Option D": "childhood"
+  },
+  {
+    "image": "china",
+    "Option A": "india",
+    "Option B": "approach",
+    "Option C": "buddhism",
+    "Option D": "china"
+  },
+  {
+    "image": "chosen",
+    "Option A": "lord",
+    "Option B": "chosen",
+    "Option C": "heir",
+    "Option D": "reign"
+  },
+  {
+    "image": "christian",
+    "Option A": "holy",
+    "Option B": "protestant",
+    "Option C": "christian",
+    "Option D": "devotion"
+  },
+  {
+    "image": "christianity",
+    "Option A": "christianity",
+    "Option B": "holiness",
+    "Option C": "testament",
+    "Option D": "christian"
+  },
+  {
+    "image": "christmas",
+    "Option A": "fondness",
+    "Option B": "november",
+    "Option C": "christmas",
+    "Option D": "heating"
+  },
+  {
+    "image": "circulation",
+    "Option A": "woe",
+    "Option B": "mitosis",
+    "Option C": "circulation",
+    "Option D": "unpleasantness"
+  },
+  {
+    "image": "circumstances",
+    "Option A": "likelihood",
+    "Option B": "probability",
+    "Option C": "probable",
+    "Option D": "circumstances"
+  },
+  {
+    "image": "citizenry",
+    "Option A": "citizenry",
+    "Option B": "trusteeship",
+    "Option C": "justification",
+    "Option D": "advocate"
+  },
+  {
+    "image": "civilization",
+    "Option A": "federation",
+    "Option B": "public",
+    "Option C": "civilization",
+    "Option D": "bicentennial"
+  },
+  {
+    "image": "claim",
+    "Option A": "preparation",
+    "Option B": "thursday",
+    "Option C": "claim",
+    "Option D": "insurer"
+  },
+  {
+    "image": "clan",
+    "Option A": "clan",
+    "Option B": "nobility",
+    "Option C": "guild",
+    "Option D": "eldest"
+  },
+  {
+    "image": "clarity",
+    "Option A": "clarity",
+    "Option B": "mercy",
+    "Option C": "expectation",
+    "Option D": "unity"
+  },
+  {
+    "image": "classical",
+    "Option A": "classical",
+    "Option B": "acting",
+    "Option C": "interlude",
+    "Option D": "broadways"
+  },
+  {
+    "image": "classified",
+    "Option A": "bureaucracy",
+    "Option B": "classified",
+    "Option C": "defeated",
+    "Option D": "editorial"
+  },
+  {
+    "image": "clean",
+    "Option A": "handling",
+    "Option B": "range",
+    "Option C": "chef",
+    "Option D": "clean"
+  },
+  {
+    "image": "coalition",
+    "Option A": "offer",
+    "Option B": "coalition",
+    "Option C": "trial",
+    "Option D": "resolve"
+  },
+  {
+    "image": "colonial",
+    "Option A": "possibility",
+    "Option B": "colonial",
+    "Option C": "desperate",
+    "Option D": "exile"
+  },
+  {
+    "image": "combination",
+    "Option A": "detective",
+    "Option B": "opportunity",
+    "Option C": "limitation",
+    "Option D": "combination"
+  },
+  {
+    "image": "comfort",
+    "Option A": "relaxation",
+    "Option B": "nostalgia",
+    "Option C": "comfort",
+    "Option D": "living"
+  },
+  {
+    "image": "coming",
+    "Option A": "combination",
+    "Option B": "trepidation",
+    "Option C": "finance",
+    "Option D": "coming"
+  },
+  {
+    "image": "commentary",
+    "Option A": "policy",
+    "Option B": "commentary",
+    "Option C": "national",
+    "Option D": "republican"
+  },
+  {
+    "image": "commerce",
+    "Option A": "purchaser",
+    "Option B": "account",
+    "Option C": "commerce",
+    "Option D": "rate"
+  },
+  {
+    "image": "commercial",
+    "Option A": "service",
+    "Option B": "clientele",
+    "Option C": "purchase",
+    "Option D": "commercial"
+  },
+  {
+    "image": "commission",
+    "Option A": "commission",
+    "Option B": "counseling",
+    "Option C": "professional",
+    "Option D": "brief"
+  },
+  {
+    "image": "commitment",
+    "Option A": "commitment",
+    "Option B": "preface",
+    "Option C": "consent",
+    "Option D": "consideration"
+  },
+  {
+    "image": "commonwealth",
+    "Option A": "commonwealth",
+    "Option B": "law",
+    "Option C": "nationalist",
+    "Option D": "strategy"
+  },
+  {
+    "image": "communication",
+    "Option A": "workweek",
+    "Option B": "communication",
+    "Option C": "thursday",
+    "Option D": "work"
+  },
+  {
+    "image": "comparative",
+    "Option A": "comparative",
+    "Option B": "assessment",
+    "Option C": "statistics",
+    "Option D": "acclimatization"
+  },
+  {
+    "image": "compassion",
+    "Option A": "confidence",
+    "Option B": "compassion",
+    "Option C": "friendliness",
+    "Option D": "society"
+  },
+  {
+    "image": "compatibility",
+    "Option A": "problem",
+    "Option B": "acceptance",
+    "Option C": "compatibility",
+    "Option D": "peace"
+  },
+  {
+    "image": "complacency",
+    "Option A": "complacency",
+    "Option B": "daily",
+    "Option C": "habit",
+    "Option D": "morning"
+  },
+  {
+    "image": "complaint",
+    "Option A": "disposition",
+    "Option B": "baffled",
+    "Option C": "complaint",
+    "Option D": "shame"
+  },
+  {
+    "image": "complex",
+    "Option A": "clustering",
+    "Option B": "continuum",
+    "Option C": "complex",
+    "Option D": "association"
+  },
+  {
+    "image": "composition",
+    "Option A": "composition",
+    "Option B": "practice",
+    "Option C": "octave",
+    "Option D": "grace"
+  },
+  {
+    "image": "compound",
+    "Option A": "experiment",
+    "Option B": "science",
+    "Option C": "research",
+    "Option D": "compound"
+  },
+  {
+    "image": "conceit",
+    "Option A": "conceit",
+    "Option B": "fancy",
+    "Option C": "custom",
+    "Option D": "fetish"
+  },
+  {
+    "image": "concentration",
+    "Option A": "concentration",
+    "Option B": "enlightened",
+    "Option C": "posture",
+    "Option D": "buddhism"
+  },
+  {
+    "image": "confederacy",
+    "Option A": "federal",
+    "Option B": "confederacy",
+    "Option C": "principles",
+    "Option D": "amendment"
+  },
+  {
+    "image": "confederate",
+    "Option A": "deterioration",
+    "Option B": "dread",
+    "Option C": "longing",
+    "Option D": "confederate"
+  },
+  {
+    "image": "confidence",
+    "Option A": "closeness",
+    "Option B": "cooperation",
+    "Option C": "confidence",
+    "Option D": "approval"
+  },
+  {
+    "image": "conflict",
+    "Option A": "hostility",
+    "Option B": "revolutionary",
+    "Option C": "disaster",
+    "Option D": "conflict"
+  },
+  {
+    "image": "confluence",
+    "Option A": "nature",
+    "Option B": "starting",
+    "Option C": "confluence",
+    "Option D": "province"
+  },
+  {
+    "image": "confusion",
+    "Option A": "thought",
+    "Option B": "confusion",
+    "Option C": "inquiry",
+    "Option D": "guess"
+  },
+  {
+    "image": "conscience",
+    "Option A": "annunciation",
+    "Option B": "afterlife",
+    "Option C": "justice",
+    "Option D": "conscience"
+  },
+  {
+    "image": "consciousness",
+    "Option A": "think",
+    "Option B": "intelligence",
+    "Option C": "consciousness",
+    "Option D": "activation"
+  },
+  {
+    "image": "consent",
+    "Option A": "consent",
+    "Option B": "brief",
+    "Option C": "bias",
+    "Option D": "combination"
+  },
+  {
+    "image": "conservative",
+    "Option A": "bicentennial",
+    "Option B": "constitutional",
+    "Option C": "liberty",
+    "Option D": "conservative"
+  },
+  {
+    "image": "consideration",
+    "Option A": "credit",
+    "Option B": "consideration",
+    "Option C": "bid",
+    "Option D": "resolve"
+  },
+  {
+    "image": "consolation",
+    "Option A": "consolation",
+    "Option B": "sensitiveness",
+    "Option C": "courtesy",
+    "Option D": "affair"
+  },
+  {
+    "image": "constitution",
+    "Option A": "constitution",
+    "Option B": "discovery",
+    "Option C": "initial",
+    "Option D": "brief"
+  },
+  {
+    "image": "constitutional",
+    "Option A": "trusteeship",
+    "Option B": "decree",
+    "Option C": "legislation",
+    "Option D": "constitutional"
+  },
+  {
+    "image": "constraint",
+    "Option A": "capture",
+    "Option B": "constraint",
+    "Option C": "limitation",
+    "Option D": "suppression"
+  },
+  {
+    "image": "construct",
+    "Option A": "labor",
+    "Option B": "construct",
+    "Option C": "maintenance",
+    "Option D": "engineer"
+  },
+  {
+    "image": "consumption",
+    "Option A": "trade",
+    "Option B": "disposal",
+    "Option C": "consumption",
+    "Option D": "hunger"
+  },
+  {
+    "image": "contamination",
+    "Option A": "theory",
+    "Option B": "radioactivity",
+    "Option C": "contamination",
+    "Option D": "compound"
+  },
+  {
+    "image": "continuity",
+    "Option A": "expansion",
+    "Option B": "going",
+    "Option C": "continuity",
+    "Option D": "parallel"
+  },
+  {
+    "image": "continuum",
+    "Option A": "complex",
+    "Option B": "topic",
+    "Option C": "continuum",
+    "Option D": "association"
+  },
+  {
+    "image": "convenience",
+    "Option A": "convenience",
+    "Option B": "endpoint",
+    "Option C": "collective",
+    "Option D": "service"
+  },
+  {
+    "image": "convention",
+    "Option A": "counseling",
+    "Option B": "enterprise",
+    "Option C": "remark",
+    "Option D": "convention"
+  },
+  {
+    "image": "conviction",
+    "Option A": "judiciary",
+    "Option B": "conviction",
+    "Option C": "tribunal",
+    "Option D": "decision"
+  },
+  {
+    "image": "cooling",
+    "Option A": "tingle",
+    "Option B": "cooling",
+    "Option C": "domestic",
+    "Option D": "times"
+  },
+  {
+    "image": "coolness",
+    "Option A": "tough",
+    "Option B": "coolness",
+    "Option C": "ambivalence",
+    "Option D": "earl"
+  },
+  {
+    "image": "cooperation",
+    "Option A": "cooperation",
+    "Option B": "discussion",
+    "Option C": "alliance",
+    "Option D": "situation"
+  },
+  {
+    "image": "corporation",
+    "Option A": "situation",
+    "Option B": "professional",
+    "Option C": "patriarchy",
+    "Option D": "corporation"
+  },
+  {
+    "image": "correspondence",
+    "Option A": "correspondence",
+    "Option B": "seeking",
+    "Option C": "disorder",
+    "Option D": "official"
+  },
+  {
+    "image": "corroding",
+    "Option A": "disposal",
+    "Option B": "offset",
+    "Option C": "corroding",
+    "Option D": "error"
+  },
+  {
+    "image": "corruption",
+    "Option A": "corruption",
+    "Option B": "republic",
+    "Option C": "government",
+    "Option D": "legislature"
+  },
+  {
+    "image": "council",
+    "Option A": "council",
+    "Option B": "oath",
+    "Option C": "objection",
+    "Option D": "rule"
+  },
+  {
+    "image": "counsel",
+    "Option A": "document",
+    "Option B": "counsel",
+    "Option C": "office",
+    "Option D": "rule"
+  },
+  {
+    "image": "courage",
+    "Option A": "courage",
+    "Option B": "aggression",
+    "Option C": "doomsday",
+    "Option D": "wartime"
+  },
+  {
+    "image": "covenant",
+    "Option A": "covenant",
+    "Option B": "repentance",
+    "Option C": "jurisdiction",
+    "Option D": "veneration"
+  },
+  {
+    "image": "covert",
+    "Option A": "moratorium",
+    "Option B": "defeated",
+    "Option C": "covert",
+    "Option D": "killer"
+  },
+  {
+    "image": "craving",
+    "Option A": "craving",
+    "Option B": "softening",
+    "Option C": "dissolving",
+    "Option D": "convenience"
+  },
+  {
+    "image": "crazy",
+    "Option A": "crazy",
+    "Option B": "security",
+    "Option C": "malice",
+    "Option D": "evil"
+  },
+  {
+    "image": "creator",
+    "Option A": "confluence",
+    "Option B": "singular",
+    "Option C": "photosynthesis",
+    "Option D": "creator"
+  },
+  {
+    "image": "credit",
+    "Option A": "accounting",
+    "Option B": "credit",
+    "Option C": "inducement",
+    "Option D": "insured"
+  },
+  {
+    "image": "creditor",
+    "Option A": "accounting",
+    "Option B": "inducement",
+    "Option C": "creditor",
+    "Option D": "analysis"
+  },
+  {
+    "image": "cretaceous",
+    "Option A": "fault",
+    "Option B": "cretaceous",
+    "Option C": "adaption",
+    "Option D": "instability"
+  },
+  {
+    "image": "crime",
+    "Option A": "trusteeship",
+    "Option B": "suppression",
+    "Option C": "crime",
+    "Option D": "objection"
+  },
+  {
+    "image": "criminal",
+    "Option A": "criminal",
+    "Option B": "captive",
+    "Option C": "custody",
+    "Option D": "limitation"
+  },
+  {
+    "image": "crisis",
+    "Option A": "protest",
+    "Option B": "crisis",
+    "Option C": "prejudice",
+    "Option D": "indignation"
+  },
+  {
+    "image": "criticism",
+    "Option A": "initial",
+    "Option B": "request",
+    "Option C": "criticism",
+    "Option D": "bureaucracy"
+  },
+  {
+    "image": "culture",
+    "Option A": "quiet",
+    "Option B": "collect",
+    "Option C": "culture",
+    "Option D": "enlightened"
+  },
+  {
+    "image": "curfew",
+    "Option A": "tomorrow",
+    "Option B": "curfew",
+    "Option C": "times",
+    "Option D": "wane"
+  },
+  {
+    "image": "curing",
+    "Option A": "operation",
+    "Option B": "curing",
+    "Option C": "alert",
+    "Option D": "ill"
+  },
+  {
+    "image": "curiosity",
+    "Option A": "method",
+    "Option B": "discovery",
+    "Option C": "curiosity",
+    "Option D": "research"
+  },
+  {
+    "image": "curriculum",
+    "Option A": "thursday",
+    "Option B": "curriculum",
+    "Option C": "idle",
+    "Option D": "teacher"
+  },
+  {
+    "image": "custody",
+    "Option A": "custody",
+    "Option B": "dispute",
+    "Option C": "boundary",
+    "Option D": "customs"
+  },
+  {
+    "image": "custom",
+    "Option A": "chef",
+    "Option B": "living",
+    "Option C": "order",
+    "Option D": "custom"
+  },
+  {
+    "image": "cynicism",
+    "Option A": "unfortunate",
+    "Option B": "passion",
+    "Option C": "unpleasantness",
+    "Option D": "cynicism"
+  },
+  {
+    "image": "daily",
+    "Option A": "daily",
+    "Option B": "sooner",
+    "Option C": "solace",
+    "Option D": "dawning"
+  },
+  {
+    "image": "damned",
+    "Option A": "sick",
+    "Option B": "damned",
+    "Option C": "movie",
+    "Option D": "dramatic"
+  },
+  {
+    "image": "danger",
+    "Option A": "evil",
+    "Option B": "supernatural",
+    "Option C": "intensity",
+    "Option D": "danger"
+  },
+  {
+    "image": "dare",
+    "Option A": "dare",
+    "Option B": "heading",
+    "Option C": "emotion",
+    "Option D": "sadness"
+  },
+  {
+    "image": "darling",
+    "Option A": "fondness",
+    "Option B": "love",
+    "Option C": "darling",
+    "Option D": "romance"
+  },
+  {
+    "image": "dawning",
+    "Option A": "springtime",
+    "Option B": "solace",
+    "Option C": "daily",
+    "Option D": "dawning"
+  },
+  {
+    "image": "deadline",
+    "Option A": "deadline",
+    "Option B": "payable",
+    "Option C": "anticipation",
+    "Option D": "meanwhile"
+  },
+  {
+    "image": "deal",
+    "Option A": "deal",
+    "Option B": "insurer",
+    "Option C": "alliance",
+    "Option D": "acquaintance"
+  },
+  {
+    "image": "dealing",
+    "Option A": "dealing",
+    "Option B": "best",
+    "Option C": "finance",
+    "Option D": "capitalism"
+  },
+  {
+    "image": "debate",
+    "Option A": "debate",
+    "Option B": "best",
+    "Option C": "tone",
+    "Option D": "glee"
+  },
+  {
+    "image": "debt",
+    "Option A": "debt",
+    "Option B": "finance",
+    "Option C": "capitalist",
+    "Option D": "subordinate"
+  },
+  {
+    "image": "december",
+    "Option A": "thanksgiving",
+    "Option B": "fondness",
+    "Option C": "holiday",
+    "Option D": "december"
+  },
+  {
+    "image": "decision",
+    "Option A": "justice",
+    "Option B": "bid",
+    "Option C": "judiciary",
+    "Option D": "decision"
+  },
+  {
+    "image": "decree",
+    "Option A": "legislation",
+    "Option B": "tribunal",
+    "Option C": "decree",
+    "Option D": "bid"
+  },
+  {
+    "image": "dedication",
+    "Option A": "satisfaction",
+    "Option B": "forefront",
+    "Option C": "dedication",
+    "Option D": "progress"
+  },
+  {
+    "image": "defeated",
+    "Option A": "obsession",
+    "Option B": "bureaucracy",
+    "Option C": "defeated",
+    "Option D": "type"
+  },
+  {
+    "image": "defense",
+    "Option A": "defense",
+    "Option B": "myth",
+    "Option C": "nobility",
+    "Option D": "east"
+  },
+  {
+    "image": "definition",
+    "Option A": "intellectual",
+    "Option B": "definition",
+    "Option C": "discovery",
+    "Option D": "guess"
+  },
+  {
+    "image": "defoliation",
+    "Option A": "confluence",
+    "Option B": "defoliation",
+    "Option C": "above",
+    "Option D": "natural"
+  },
+  {
+    "image": "degeneration",
+    "Option A": "proliferation",
+    "Option B": "defect",
+    "Option C": "threshold",
+    "Option D": "degeneration"
+  },
+  {
+    "image": "degree",
+    "Option A": "cohort",
+    "Option B": "institute",
+    "Option C": "subject",
+    "Option D": "degree"
+  },
+  {
+    "image": "delay",
+    "Option A": "departure",
+    "Option B": "municipality",
+    "Option C": "delay",
+    "Option D": "millisecond"
+  },
+  {
+    "image": "delegation",
+    "Option A": "caucus",
+    "Option B": "republic",
+    "Option C": "delegation",
+    "Option D": "national"
+  },
+  {
+    "image": "deletion",
+    "Option A": "exclusion",
+    "Option B": "nay",
+    "Option C": "deletion",
+    "Option D": "error"
+  },
+  {
+    "image": "delight",
+    "Option A": "jubilee",
+    "Option B": "birthday",
+    "Option C": "present",
+    "Option D": "delight"
+  },
+  {
+    "image": "demand",
+    "Option A": "transfer",
+    "Option B": "finance",
+    "Option C": "demand",
+    "Option D": "denomination"
+  },
+  {
+    "image": "demise",
+    "Option A": "demise",
+    "Option B": "plague",
+    "Option C": "fright",
+    "Option D": "malice"
+  },
+  {
+    "image": "democracy",
+    "Option A": "federal",
+    "Option B": "democracy",
+    "Option C": "policy",
+    "Option D": "national"
+  },
+  {
+    "image": "denial",
+    "Option A": "violence",
+    "Option B": "nay",
+    "Option C": "editorial",
+    "Option D": "denial"
+  },
+  {
+    "image": "departed",
+    "Option A": "fright",
+    "Option B": "departed",
+    "Option C": "haunt",
+    "Option D": "doomed"
+  },
+  {
+    "image": "departure",
+    "Option A": "generation",
+    "Option B": "departure",
+    "Option C": "airspeed",
+    "Option D": "playfulness"
+  },
+  {
+    "image": "dependence",
+    "Option A": "dependence",
+    "Option B": "security",
+    "Option C": "moratorium",
+    "Option D": "crazy"
+  },
+  {
+    "image": "dependent",
+    "Option A": "expectancy",
+    "Option B": "playfulness",
+    "Option C": "dependent",
+    "Option D": "willingness"
+  },
+  {
+    "image": "depression",
+    "Option A": "sooner",
+    "Option B": "depression",
+    "Option C": "complacency",
+    "Option D": "solace"
+  },
+  {
+    "image": "depth",
+    "Option A": "high",
+    "Option B": "depth",
+    "Option C": "difficulty",
+    "Option D": "aurora"
+  },
+  {
+    "image": "desire",
+    "Option A": "beloved",
+    "Option B": "proposal",
+    "Option C": "desire",
+    "Option D": "anniversary"
+  },
+  {
+    "image": "despair",
+    "Option A": "despair",
+    "Option B": "sorrow",
+    "Option C": "gloom",
+    "Option D": "sadness"
+  },
+  {
+    "image": "desperate",
+    "Option A": "buoyancy",
+    "Option B": "leeway",
+    "Option C": "deep",
+    "Option D": "desperate"
+  },
+  {
+    "image": "detail",
+    "Option A": "biosynthesis",
+    "Option B": "genotype",
+    "Option C": "detail",
+    "Option D": "topic"
+  },
+  {
+    "image": "detective",
+    "Option A": "discovery",
+    "Option B": "combination",
+    "Option C": "detective",
+    "Option D": "finding"
+  },
+  {
+    "image": "determination",
+    "Option A": "player",
+    "Option B": "outset",
+    "Option C": "rank",
+    "Option D": "determination"
+  },
+  {
+    "image": "dignity",
+    "Option A": "dignity",
+    "Option B": "commonwealth",
+    "Option C": "rule",
+    "Option D": "divorce"
+  },
+  {
+    "image": "dimension",
+    "Option A": "leeway",
+    "Option B": "precision",
+    "Option C": "dimension",
+    "Option D": "territorial"
+  },
+  {
+    "image": "disability",
+    "Option A": "patient",
+    "Option B": "disability",
+    "Option C": "diagnosis",
+    "Option D": "generation"
+  },
+  {
+    "image": "disapproval",
+    "Option A": "unpleasantness",
+    "Option B": "antipathy",
+    "Option C": "disapproval",
+    "Option D": "outrage"
+  },
+  {
+    "image": "disaster",
+    "Option A": "outrage",
+    "Option B": "disaster",
+    "Option C": "morale",
+    "Option D": "offering"
+  },
+  {
+    "image": "discipline",
+    "Option A": "appointment",
+    "Option B": "meantime",
+    "Option C": "discipline",
+    "Option D": "quarterly"
+  },
+  {
+    "image": "discontent",
+    "Option A": "displeasure",
+    "Option B": "astonishment",
+    "Option C": "discontent",
+    "Option D": "disposition"
+  },
+  {
+    "image": "discourse",
+    "Option A": "administration",
+    "Option B": "association",
+    "Option C": "clustering",
+    "Option D": "discourse"
+  },
+  {
+    "image": "discovery",
+    "Option A": "revelation",
+    "Option B": "discovery",
+    "Option C": "method",
+    "Option D": "latitude"
+  },
+  {
+    "image": "disease",
+    "Option A": "testing",
+    "Option B": "genome",
+    "Option C": "disease",
+    "Option D": "research"
+  },
+  {
+    "image": "disorder",
+    "Option A": "summary",
+    "Option B": "work",
+    "Option C": "surplus",
+    "Option D": "disorder"
+  },
+  {
+    "image": "disposal",
+    "Option A": "disposal",
+    "Option B": "production",
+    "Option C": "globalization",
+    "Option D": "making"
+  },
+  {
+    "image": "dispute",
+    "Option A": "advocate",
+    "Option B": "dispute",
+    "Option C": "legislation",
+    "Option D": "justification"
+  },
+  {
+    "image": "dissolving",
+    "Option A": "dissolving",
+    "Option B": "tingle",
+    "Option C": "effervescence",
+    "Option D": "craving"
+  },
+  {
+    "image": "distress",
+    "Option A": "sadness",
+    "Option B": "brooding",
+    "Option C": "pessimism",
+    "Option D": "distress"
+  },
+  {
+    "image": "diversity",
+    "Option A": "tolerance",
+    "Option B": "solidarity",
+    "Option C": "gathering",
+    "Option D": "diversity"
+  },
+  {
+    "image": "divine",
+    "Option A": "hereafter",
+    "Option B": "testament",
+    "Option C": "devotion",
+    "Option D": "divine"
+  },
+  {
+    "image": "divinity",
+    "Option A": "divinity",
+    "Option B": "testament",
+    "Option C": "prayer",
+    "Option D": "repentance"
+  },
+  {
+    "image": "divorce",
+    "Option A": "constitutional",
+    "Option B": "will",
+    "Option C": "divorce",
+    "Option D": "judgment"
+  },
+  {
+    "image": "doctor",
+    "Option A": "recuperation",
+    "Option B": "understanding",
+    "Option C": "reform",
+    "Option D": "doctor"
+  },
+  {
+    "image": "domestication",
+    "Option A": "farm",
+    "Option B": "provincial",
+    "Option C": "domestication",
+    "Option D": "heartland"
+  },
+  {
+    "image": "dominance",
+    "Option A": "almighty",
+    "Option B": "tyranny",
+    "Option C": "dominance",
+    "Option D": "dynasty"
+  },
+  {
+    "image": "dominant",
+    "Option A": "dominant",
+    "Option B": "aggregation",
+    "Option C": "greatness",
+    "Option D": "saturation"
+  },
+  {
+    "image": "dominion",
+    "Option A": "dominion",
+    "Option B": "nobility",
+    "Option C": "heir",
+    "Option D": "tyranny"
+  },
+  {
+    "image": "doomed",
+    "Option A": "haunt",
+    "Option B": "departed",
+    "Option C": "killer",
+    "Option D": "doomed"
+  },
+  {
+    "image": "doomsday",
+    "Option A": "trembling",
+    "Option B": "chaos",
+    "Option C": "doomsday",
+    "Option D": "disaster"
+  },
+  {
+    "image": "doubt",
+    "Option A": "uncertainty",
+    "Option B": "doubt",
+    "Option C": "ignorance",
+    "Option D": "problem"
+  },
+  {
+    "image": "downtime",
+    "Option A": "domestic",
+    "Option B": "solace",
+    "Option C": "heating",
+    "Option D": "downtime"
+  },
+  {
+    "image": "drama",
+    "Option A": "producer",
+    "Option B": "drama",
+    "Option C": "tone",
+    "Option D": "glee"
+  },
+  {
+    "image": "dread",
+    "Option A": "dread",
+    "Option B": "limitation",
+    "Option C": "threshold",
+    "Option D": "suspense"
+  },
+  {
+    "image": "dream",
+    "Option A": "sadness",
+    "Option B": "lightness",
+    "Option C": "dream",
+    "Option D": "expectation"
+  },
+  {
+    "image": "driver",
+    "Option A": "driver",
+    "Option B": "continuum",
+    "Option C": "prospect",
+    "Option D": "turning"
+  },
+  {
+    "image": "duality",
+    "Option A": "duality",
+    "Option B": "existence",
+    "Option C": "sensitiveness",
+    "Option D": "expansion"
+  },
+  {
+    "image": "due",
+    "Option A": "resignation",
+    "Option B": "insured",
+    "Option C": "quarterly",
+    "Option D": "due"
+  },
+  {
+    "image": "duration",
+    "Option A": "meantime",
+    "Option B": "times",
+    "Option C": "duration",
+    "Option D": "millisecond"
+  },
+  {
+    "image": "duty",
+    "Option A": "duty",
+    "Option B": "federation",
+    "Option C": "intervention",
+    "Option D": "major"
+  },
+  {
+    "image": "dying",
+    "Option A": "necrophilia",
+    "Option B": "fright",
+    "Option C": "dying",
+    "Option D": "doomed"
+  },
+  {
+    "image": "dynasty",
+    "Option A": "heir",
+    "Option B": "noble",
+    "Option C": "dynasty",
+    "Option D": "reign"
+  },
+  {
+    "image": "earshot",
+    "Option A": "listening",
+    "Option B": "control",
+    "Option C": "earshot",
+    "Option D": "age"
+  },
+  {
+    "image": "east",
+    "Option A": "zen",
+    "Option B": "india",
+    "Option C": "east",
+    "Option D": "buddhism"
+  },
+  {
+    "image": "easter",
+    "Option A": "fondness",
+    "Option B": "springtime",
+    "Option C": "easter",
+    "Option D": "noel"
+  },
+  {
+    "image": "ecology",
+    "Option A": "peace",
+    "Option B": "globalization",
+    "Option C": "ecology",
+    "Option D": "provision"
+  },
+  {
+    "image": "economics",
+    "Option A": "analysis",
+    "Option B": "credit",
+    "Option C": "creditor",
+    "Option D": "economics"
+  },
+  {
+    "image": "economy",
+    "Option A": "accumulation",
+    "Option B": "transfer",
+    "Option C": "creditor",
+    "Option D": "economy"
+  },
+  {
+    "image": "editorial",
+    "Option A": "faction",
+    "Option B": "editorial",
+    "Option C": "detective",
+    "Option D": "yesteryear"
+  },
+  {
+    "image": "education",
+    "Option A": "education",
+    "Option B": "schooldays",
+    "Option C": "specific",
+    "Option D": "learning"
+  },
+  {
+    "image": "effervescence",
+    "Option A": "lightness",
+    "Option B": "osmosis",
+    "Option C": "aeration",
+    "Option D": "effervescence"
+  },
+  {
+    "image": "egomania",
+    "Option A": "aristocracy",
+    "Option B": "reign",
+    "Option C": "chosen",
+    "Option D": "egomania"
+  },
+  {
+    "image": "elite",
+    "Option A": "worthy",
+    "Option B": "modern",
+    "Option C": "elite",
+    "Option D": "prosperity"
+  },
+  {
+    "image": "emotion",
+    "Option A": "despair",
+    "Option B": "feel",
+    "Option C": "emotion",
+    "Option D": "gloom"
+  },
+  {
+    "image": "empire",
+    "Option A": "brave",
+    "Option B": "chosen",
+    "Option C": "empire",
+    "Option D": "wonder"
+  },
+  {
+    "image": "employ",
+    "Option A": "meeting",
+    "Option B": "interview",
+    "Option C": "due",
+    "Option D": "employ"
+  },
+  {
+    "image": "employment",
+    "Option A": "commission",
+    "Option B": "brief",
+    "Option C": "insurer",
+    "Option D": "employment"
+  },
+  {
+    "image": "emulation",
+    "Option A": "emulation",
+    "Option B": "format",
+    "Option C": "nostalgia",
+    "Option D": "nowadays"
+  },
+  {
+    "image": "enchantment",
+    "Option A": "imagination",
+    "Option B": "revelation",
+    "Option C": "enchantment",
+    "Option D": "materialization"
+  },
+  {
+    "image": "ending",
+    "Option A": "magnitude",
+    "Option B": "ending",
+    "Option C": "difficulty",
+    "Option D": "providence"
+  },
+  {
+    "image": "enemy",
+    "Option A": "ruin",
+    "Option B": "doomsday",
+    "Option C": "enemy",
+    "Option D": "armageddon"
+  },
+  {
+    "image": "engineer",
+    "Option A": "engineer",
+    "Option B": "maintenance",
+    "Option C": "fix",
+    "Option D": "construct"
+  },
+  {
+    "image": "engineering",
+    "Option A": "subsystem",
+    "Option B": "standard",
+    "Option C": "engineering",
+    "Option D": "making"
+  },
+  {
+    "image": "enjoyment",
+    "Option A": "enjoyment",
+    "Option B": "chosen",
+    "Option C": "feel",
+    "Option D": "offering"
+  },
+  {
+    "image": "enlightened",
+    "Option A": "buddhism",
+    "Option B": "enlightened",
+    "Option C": "concentration",
+    "Option D": "quiet"
+  },
+  {
+    "image": "enlistment",
+    "Option A": "enlistment",
+    "Option B": "squadron",
+    "Option C": "intervention",
+    "Option D": "professor"
+  },
+  {
+    "image": "enthusiasm",
+    "Option A": "voluntary",
+    "Option B": "enthusiasm",
+    "Option C": "heyday",
+    "Option D": "surprise"
+  },
+  {
+    "image": "envy",
+    "Option A": "exile",
+    "Option B": "fun",
+    "Option C": "envy",
+    "Option D": "killer"
+  },
+  {
+    "image": "equal",
+    "Option A": "equal",
+    "Option B": "legislation",
+    "Option C": "balance",
+    "Option D": "decision"
+  },
+  {
+    "image": "equality",
+    "Option A": "moral",
+    "Option B": "honesty",
+    "Option C": "reform",
+    "Option D": "equality"
+  },
+  {
+    "image": "equilibrium",
+    "Option A": "equilibrium",
+    "Option B": "decision",
+    "Option C": "legislation",
+    "Option D": "justice"
+  },
+  {
+    "image": "escape",
+    "Option A": "escape",
+    "Option B": "opportunity",
+    "Option C": "distress",
+    "Option D": "turnaround"
+  },
+  {
+    "image": "essence",
+    "Option A": "essence",
+    "Option B": "concentration",
+    "Option C": "posture",
+    "Option D": "buddhism"
+  },
+  {
+    "image": "estimate",
+    "Option A": "rate",
+    "Option B": "analysis",
+    "Option C": "number",
+    "Option D": "estimate"
+  },
+  {
+    "image": "eternity",
+    "Option A": "expectation",
+    "Option B": "high",
+    "Option C": "universal",
+    "Option D": "eternity"
+  },
+  {
+    "image": "ethics",
+    "Option A": "judiciary",
+    "Option B": "ethics",
+    "Option C": "advocate",
+    "Option D": "justice"
+  },
+  {
+    "image": "ethnic",
+    "Option A": "india",
+    "Option B": "ethnic",
+    "Option C": "japan",
+    "Option D": "gusto"
+  },
+  {
+    "image": "evaluation",
+    "Option A": "type",
+    "Option B": "evaluation",
+    "Option C": "curriculum",
+    "Option D": "readership"
+  },
+  {
+    "image": "evil",
+    "Option A": "sin",
+    "Option B": "hellhole",
+    "Option C": "evil",
+    "Option D": "mortality"
+  },
+  {
+    "image": "evolution",
+    "Option A": "evolution",
+    "Option B": "gray",
+    "Option C": "fossilization",
+    "Option D": "wise"
+  },
+  {
+    "image": "excellence",
+    "Option A": "competence",
+    "Option B": "excellence",
+    "Option C": "ambition",
+    "Option D": "dedication"
+  },
+  {
+    "image": "exclusion",
+    "Option A": "trepidation",
+    "Option B": "warning",
+    "Option C": "keeping",
+    "Option D": "exclusion"
+  },
+  {
+    "image": "exclusive",
+    "Option A": "privilege",
+    "Option B": "exclusive",
+    "Option C": "autonomy",
+    "Option D": "altitude"
+  },
+  {
+    "image": "excuse",
+    "Option A": "infatuation",
+    "Option B": "excuse",
+    "Option C": "pity",
+    "Option D": "woe"
+  },
+  {
+    "image": "exhaustion",
+    "Option A": "fatigue",
+    "Option B": "productivity",
+    "Option C": "understanding",
+    "Option D": "exhaustion"
+  },
+  {
+    "image": "exhilaration",
+    "Option A": "fair",
+    "Option B": "exuberance",
+    "Option C": "exhilaration",
+    "Option D": "surprise"
+  },
+  {
+    "image": "exile",
+    "Option A": "exile",
+    "Option B": "frequency",
+    "Option C": "nature",
+    "Option D": "approach"
+  },
+  {
+    "image": "expedition",
+    "Option A": "journey",
+    "Option B": "somewhere",
+    "Option C": "retirement",
+    "Option D": "expedition"
+  },
+  {
+    "image": "experience",
+    "Option A": "bid",
+    "Option B": "experience",
+    "Option C": "esteem",
+    "Option D": "insured"
+  },
+  {
+    "image": "experiment",
+    "Option A": "experiment",
+    "Option B": "compound",
+    "Option C": "science",
+    "Option D": "hydrolysis"
+  },
+  {
+    "image": "expert",
+    "Option A": "theory",
+    "Option B": "science",
+    "Option C": "expert",
+    "Option D": "derivation"
+  },
+  {
+    "image": "expiration",
+    "Option A": "timing",
+    "Option B": "times",
+    "Option C": "tomorrow",
+    "Option D": "expiration"
+  },
+  {
+    "image": "extinction",
+    "Option A": "invention",
+    "Option B": "extinction",
+    "Option C": "expert",
+    "Option D": "science"
+  },
+  {
+    "image": "extraction",
+    "Option A": "galvanization",
+    "Option B": "extraction",
+    "Option C": "architect",
+    "Option D": "construct"
+  },
+  {
+    "image": "extreme",
+    "Option A": "dare",
+    "Option B": "extreme",
+    "Option C": "altitude",
+    "Option D": "challenge"
+  },
+  {
+    "image": "exuberance",
+    "Option A": "birthday",
+    "Option B": "exuberance",
+    "Option C": "present",
+    "Option D": "delight"
+  },
+  {
+    "image": "exultation",
+    "Option A": "satisfaction",
+    "Option B": "exultation",
+    "Option C": "excitement",
+    "Option D": "delight"
+  },
+  {
+    "image": "faith",
+    "Option A": "holy",
+    "Option B": "faith",
+    "Option C": "priesthood",
+    "Option D": "brethren"
+  },
+  {
+    "image": "faithful",
+    "Option A": "christian",
+    "Option B": "holiness",
+    "Option C": "repentance",
+    "Option D": "faithful"
+  },
+  {
+    "image": "fame",
+    "Option A": "good",
+    "Option B": "fame",
+    "Option C": "satisfaction",
+    "Option D": "glory"
+  },
+  {
+    "image": "fancy",
+    "Option A": "fancy",
+    "Option B": "romantic",
+    "Option C": "baroque",
+    "Option D": "passover"
+  },
+  {
+    "image": "fashion",
+    "Option A": "fancy",
+    "Option B": "fashion",
+    "Option C": "readiness",
+    "Option D": "throng"
+  },
+  {
+    "image": "fast",
+    "Option A": "armageddon",
+    "Option B": "doomsday",
+    "Option C": "worthy",
+    "Option D": "fast"
+  },
+  {
+    "image": "fatherland",
+    "Option A": "herald",
+    "Option B": "empire",
+    "Option C": "fatherland",
+    "Option D": "lord"
+  },
+  {
+    "image": "fatigue",
+    "Option A": "habit",
+    "Option B": "fatigue",
+    "Option C": "sooner",
+    "Option D": "exhaustion"
+  },
+  {
+    "image": "fear",
+    "Option A": "doomed",
+    "Option B": "evil",
+    "Option C": "mortality",
+    "Option D": "fear"
+  },
+  {
+    "image": "february",
+    "Option A": "christmas",
+    "Option B": "holiday",
+    "Option C": "infatuation",
+    "Option D": "february"
+  },
+  {
+    "image": "fed",
+    "Option A": "finance",
+    "Option B": "trading",
+    "Option C": "fed",
+    "Option D": "inducement"
+  },
+  {
+    "image": "federal",
+    "Option A": "judgment",
+    "Option B": "principles",
+    "Option C": "decree",
+    "Option D": "federal"
+  },
+  {
+    "image": "federation",
+    "Option A": "constitutional",
+    "Option B": "july",
+    "Option C": "federation",
+    "Option D": "civilization"
+  },
+  {
+    "image": "feedback",
+    "Option A": "workweek",
+    "Option B": "accounting",
+    "Option C": "feedback",
+    "Option D": "analysis"
+  },
+  {
+    "image": "fellowship",
+    "Option A": "sociable",
+    "Option B": "humanity",
+    "Option C": "pleasure",
+    "Option D": "fellowship"
+  },
+  {
+    "image": "feminization",
+    "Option A": "girlhood",
+    "Option B": "vanity",
+    "Option C": "sexuality",
+    "Option D": "feminization"
+  },
+  {
+    "image": "fertility",
+    "Option A": "fertility",
+    "Option B": "babyhood",
+    "Option C": "born",
+    "Option D": "dependent"
+  },
+  {
+    "image": "fervor",
+    "Option A": "doomsday",
+    "Option B": "hellhole",
+    "Option C": "peril",
+    "Option D": "fervor"
+  },
+  {
+    "image": "feudalism",
+    "Option A": "lord",
+    "Option B": "reign",
+    "Option C": "chosen",
+    "Option D": "feudalism"
+  },
+  {
+    "image": "fever",
+    "Option A": "fever",
+    "Option B": "patient",
+    "Option C": "exhaustion",
+    "Option D": "treatment"
+  },
+  {
+    "image": "fiction",
+    "Option A": "progression",
+    "Option B": "fiction",
+    "Option C": "science",
+    "Option D": "impulse"
+  },
+  {
+    "image": "fidelity",
+    "Option A": "married",
+    "Option B": "union",
+    "Option C": "fidelity",
+    "Option D": "promise"
+  },
+  {
+    "image": "find",
+    "Option A": "advocate",
+    "Option B": "locale",
+    "Option C": "repair",
+    "Option D": "find"
+  },
+  {
+    "image": "finance",
+    "Option A": "trading",
+    "Option B": "transfer",
+    "Option C": "finance",
+    "Option D": "demand"
+  },
+  {
+    "image": "finding",
+    "Option A": "finding",
+    "Option B": "locale",
+    "Option C": "detective",
+    "Option D": "confusion"
+  },
+  {
+    "image": "finish",
+    "Option A": "superiority",
+    "Option B": "good",
+    "Option C": "outset",
+    "Option D": "finish"
+  },
+  {
+    "image": "finishing",
+    "Option A": "superiority",
+    "Option B": "finishing",
+    "Option C": "morale",
+    "Option D": "focus"
+  },
+  {
+    "image": "fit",
+    "Option A": "range",
+    "Option B": "fit",
+    "Option C": "vigor",
+    "Option D": "fitness"
+  },
+  {
+    "image": "fitness",
+    "Option A": "fitness",
+    "Option B": "fit",
+    "Option C": "health",
+    "Option D": "vigor"
+  },
+  {
+    "image": "fix",
+    "Option A": "fix",
+    "Option B": "precision",
+    "Option C": "repair",
+    "Option D": "engineer"
+  },
+  {
+    "image": "fixation",
+    "Option A": "fixation",
+    "Option B": "consciousness",
+    "Option C": "complex",
+    "Option D": "its"
+  },
+  {
+    "image": "flexibility",
+    "Option A": "vigor",
+    "Option B": "dancer",
+    "Option C": "flexibility",
+    "Option D": "broadways"
+  },
+  {
+    "image": "florescence",
+    "Option A": "natural",
+    "Option B": "warming",
+    "Option C": "florescence",
+    "Option D": "germination"
+  },
+  {
+    "image": "flux",
+    "Option A": "network",
+    "Option B": "flux",
+    "Option C": "subsystem",
+    "Option D": "component"
+  },
+  {
+    "image": "focalization",
+    "Option A": "mercy",
+    "Option B": "science",
+    "Option C": "focalization",
+    "Option D": "imagination"
+  },
+  {
+    "image": "focus",
+    "Option A": "think",
+    "Option B": "bias",
+    "Option C": "differential",
+    "Option D": "focus"
+  },
+  {
+    "image": "foe",
+    "Option A": "revolutionary",
+    "Option B": "foe",
+    "Option C": "disaster",
+    "Option D": "doomsday"
+  },
+  {
+    "image": "fondness",
+    "Option A": "fondness",
+    "Option B": "noel",
+    "Option C": "goodness",
+    "Option D": "darling"
+  },
+  {
+    "image": "fool",
+    "Option A": "amusement",
+    "Option B": "killer",
+    "Option C": "fool",
+    "Option D": "evil"
+  },
+  {
+    "image": "forenoon",
+    "Option A": "solace",
+    "Option B": "tomorrow",
+    "Option C": "forenoon",
+    "Option D": "idle"
+  },
+  {
+    "image": "forgiveness",
+    "Option A": "tearing",
+    "Option B": "forgiveness",
+    "Option C": "pity",
+    "Option D": "compatibility"
+  },
+  {
+    "image": "formation",
+    "Option A": "formation",
+    "Option B": "goddess",
+    "Option C": "repertoire",
+    "Option D": "score"
+  },
+  {
+    "image": "forties",
+    "Option A": "type",
+    "Option B": "inspiration",
+    "Option C": "forties",
+    "Option D": "baroque"
+  },
+  {
+    "image": "fortnight",
+    "Option A": "fortnight",
+    "Option B": "squadron",
+    "Option C": "threat",
+    "Option D": "wartime"
+  },
+  {
+    "image": "fossilization",
+    "Option A": "demise",
+    "Option B": "doomed",
+    "Option C": "haunt",
+    "Option D": "fossilization"
+  },
+  {
+    "image": "foster",
+    "Option A": "past",
+    "Option B": "foster",
+    "Option C": "familiar",
+    "Option D": "dependent"
+  },
+  {
+    "image": "framework",
+    "Option A": "framework",
+    "Option B": "repair",
+    "Option C": "alignment",
+    "Option D": "galvanization"
+  },
+  {
+    "image": "france",
+    "Option A": "deficiency",
+    "Option B": "harmony",
+    "Option C": "masquerade",
+    "Option D": "france"
+  },
+  {
+    "image": "fraternity",
+    "Option A": "fraternity",
+    "Option B": "heyday",
+    "Option C": "sociable",
+    "Option D": "secondary"
+  },
+  {
+    "image": "free",
+    "Option A": "peace",
+    "Option B": "mercy",
+    "Option C": "zenith",
+    "Option D": "free"
+  },
+  {
+    "image": "freedom",
+    "Option A": "freedom",
+    "Option B": "motherland",
+    "Option C": "turning",
+    "Option D": "limit"
+  },
+  {
+    "image": "freeman",
+    "Option A": "independence",
+    "Option B": "enlistment",
+    "Option C": "freeman",
+    "Option D": "motherland"
+  },
+  {
+    "image": "friendliness",
+    "Option A": "acquaintance",
+    "Option B": "closeness",
+    "Option C": "friendliness",
+    "Option D": "listing"
+  },
+  {
+    "image": "friendship",
+    "Option A": "friendship",
+    "Option B": "romance",
+    "Option C": "loathing",
+    "Option D": "romantic"
+  },
+  {
+    "image": "fright",
+    "Option A": "fright",
+    "Option B": "demise",
+    "Option C": "suspense",
+    "Option D": "halloween"
+  },
+  {
+    "image": "frontier",
+    "Option A": "domestication",
+    "Option B": "settlement",
+    "Option C": "yield",
+    "Option D": "frontier"
+  },
+  {
+    "image": "fulfillment",
+    "Option A": "fulfillment",
+    "Option B": "campus",
+    "Option C": "jersey",
+    "Option D": "excitement"
+  },
+  {
+    "image": "fun",
+    "Option A": "exuberance",
+    "Option B": "excitement",
+    "Option C": "fun",
+    "Option D": "gladness"
+  },
+  {
+    "image": "funny",
+    "Option A": "funny",
+    "Option B": "disposition",
+    "Option C": "unpleasantness",
+    "Option D": "gladness"
+  },
+  {
+    "image": "furies",
+    "Option A": "demise",
+    "Option B": "despair",
+    "Option C": "furies",
+    "Option D": "hell"
+  },
+  {
+    "image": "fury",
+    "Option A": "malice",
+    "Option B": "private",
+    "Option C": "cult",
+    "Option D": "fury"
+  },
+  {
+    "image": "future",
+    "Option A": "subsystem",
+    "Option B": "multiprocessing",
+    "Option C": "future",
+    "Option D": "clustering"
+  },
+  {
+    "image": "gender",
+    "Option A": "pity",
+    "Option B": "intimacy",
+    "Option C": "affection",
+    "Option D": "gender"
+  },
+  {
+    "image": "genealogy",
+    "Option A": "science",
+    "Option B": "expert",
+    "Option C": "genealogy",
+    "Option D": "invention"
+  },
+  {
+    "image": "general",
+    "Option A": "chosen",
+    "Option B": "aristocracy",
+    "Option C": "general",
+    "Option D": "foe"
+  },
+  {
+    "image": "generation",
+    "Option A": "retrospective",
+    "Option B": "playfulness",
+    "Option C": "generation",
+    "Option D": "voluntary"
+  },
+  {
+    "image": "genius",
+    "Option A": "seeking",
+    "Option B": "genius",
+    "Option C": "ability",
+    "Option D": "reasoning"
+  },
+  {
+    "image": "genome",
+    "Option A": "microevolution",
+    "Option B": "genome",
+    "Option C": "experiment",
+    "Option D": "synthesis"
+  },
+  {
+    "image": "genotype",
+    "Option A": "genome",
+    "Option B": "being",
+    "Option C": "metabolism",
+    "Option D": "genotype"
+  },
+  {
+    "image": "germination",
+    "Option A": "germination",
+    "Option B": "starting",
+    "Option C": "sensitive",
+    "Option D": "version"
+  },
+  {
+    "image": "ghost",
+    "Option A": "possession",
+    "Option B": "fear",
+    "Option C": "moratorium",
+    "Option D": "ghost"
+  },
+  {
+    "image": "girlhood",
+    "Option A": "infatuation",
+    "Option B": "euphoria",
+    "Option C": "lightness",
+    "Option D": "girlhood"
+  },
+  {
+    "image": "give",
+    "Option A": "take",
+    "Option B": "selfish",
+    "Option C": "give",
+    "Option D": "happy"
+  },
+  {
+    "image": "gladness",
+    "Option A": "gladness",
+    "Option B": "jubilee",
+    "Option C": "birthday",
+    "Option D": "delight"
+  },
+  {
+    "image": "glee",
+    "Option A": "sung",
+    "Option B": "performance",
+    "Option C": "glee",
+    "Option D": "tone"
+  },
+  {
+    "image": "globalization",
+    "Option A": "administration",
+    "Option B": "management",
+    "Option C": "analysis",
+    "Option D": "globalization"
+  },
+  {
+    "image": "gloom",
+    "Option A": "sadness",
+    "Option B": "brooding",
+    "Option C": "gloom",
+    "Option D": "starting"
+  },
+  {
+    "image": "glory",
+    "Option A": "perfection",
+    "Option B": "rank",
+    "Option C": "glory",
+    "Option D": "satisfaction"
+  },
+  {
+    "image": "goal",
+    "Option A": "outset",
+    "Option B": "goal",
+    "Option C": "superiority",
+    "Option D": "dedication"
+  },
+  {
+    "image": "god",
+    "Option A": "god",
+    "Option B": "devotion",
+    "Option C": "christian",
+    "Option D": "veneration"
+  },
+  {
+    "image": "goodness",
+    "Option A": "goodness",
+    "Option B": "unity",
+    "Option C": "euphoria",
+    "Option D": "budding"
+  },
+  {
+    "image": "governance",
+    "Option A": "behalf",
+    "Option B": "governance",
+    "Option C": "trusteeship",
+    "Option D": "lawyer"
+  },
+  {
+    "image": "government",
+    "Option A": "caucus",
+    "Option B": "government",
+    "Option C": "objection",
+    "Option D": "legislature"
+  },
+  {
+    "image": "grace",
+    "Option A": "romance",
+    "Option B": "intimate",
+    "Option C": "interlude",
+    "Option D": "grace"
+  },
+  {
+    "image": "graduate",
+    "Option A": "professor",
+    "Option B": "graduate",
+    "Option C": "sermon",
+    "Option D": "jurisdiction"
+  },
+  {
+    "image": "grammar",
+    "Option A": "plan",
+    "Option B": "understanding",
+    "Option C": "grammar",
+    "Option D": "straight"
+  },
+  {
+    "image": "gratitude",
+    "Option A": "voluntary",
+    "Option B": "birthday",
+    "Option C": "gratitude",
+    "Option D": "present"
+  },
+  {
+    "image": "greatness",
+    "Option A": "exuberance",
+    "Option B": "burst",
+    "Option C": "morale",
+    "Option D": "greatness"
+  },
+  {
+    "image": "grief",
+    "Option A": "grief",
+    "Option B": "necrophilia",
+    "Option C": "fright",
+    "Option D": "departed"
+  },
+  {
+    "image": "grievance",
+    "Option A": "grievance",
+    "Option B": "honesty",
+    "Option C": "decision",
+    "Option D": "lawyer"
+  },
+  {
+    "image": "growing",
+    "Option A": "growing",
+    "Option B": "beauty",
+    "Option C": "adaptation",
+    "Option D": "spoiling"
+  },
+  {
+    "image": "growth",
+    "Option A": "influx",
+    "Option B": "peace",
+    "Option C": "growth",
+    "Option D": "rate"
+  },
+  {
+    "image": "guarantee",
+    "Option A": "inducement",
+    "Option B": "guarantee",
+    "Option C": "accumulation",
+    "Option D": "credit"
+  },
+  {
+    "image": "guess",
+    "Option A": "guess",
+    "Option B": "inquiry",
+    "Option C": "mind",
+    "Option D": "think"
+  },
+  {
+    "image": "guidance",
+    "Option A": "pinpoint",
+    "Option B": "distance",
+    "Option C": "guidance",
+    "Option D": "possibility"
+  },
+  {
+    "image": "guilt",
+    "Option A": "killer",
+    "Option B": "glance",
+    "Option C": "withdrawal",
+    "Option D": "guilt"
+  },
+  {
+    "image": "gusto",
+    "Option A": "abundance",
+    "Option B": "gathering",
+    "Option C": "range",
+    "Option D": "gusto"
+  },
+  {
+    "image": "habit",
+    "Option A": "habit",
+    "Option B": "daily",
+    "Option C": "complacency",
+    "Option D": "moment"
+  },
+  {
+    "image": "halftime",
+    "Option A": "pace",
+    "Option B": "bout",
+    "Option C": "halftime",
+    "Option D": "determination"
+  },
+  {
+    "image": "halloween",
+    "Option A": "easter",
+    "Option B": "demise",
+    "Option C": "fright",
+    "Option D": "halloween"
+  },
+  {
+    "image": "happiness",
+    "Option A": "voluntary",
+    "Option B": "dancer",
+    "Option C": "bohemia",
+    "Option D": "happiness"
+  },
+  {
+    "image": "harm",
+    "Option A": "dread",
+    "Option B": "doomsday",
+    "Option C": "instability",
+    "Option D": "harm"
+  },
+  {
+    "image": "harmony",
+    "Option A": "harmony",
+    "Option B": "unfolding",
+    "Option C": "expansion",
+    "Option D": "inspiration"
+  },
+  {
+    "image": "haste",
+    "Option A": "way",
+    "Option B": "association",
+    "Option C": "haste",
+    "Option D": "complex"
+  },
+  {
+    "image": "hate",
+    "Option A": "sounding",
+    "Option B": "prominence",
+    "Option C": "acting",
+    "Option D": "hate"
+  },
+  {
+    "image": "hatred",
+    "Option A": "fervor",
+    "Option B": "hatred",
+    "Option C": "wrath",
+    "Option D": "devil"
+  },
+  {
+    "image": "haunt",
+    "Option A": "doomed",
+    "Option B": "house",
+    "Option C": "haunt",
+    "Option D": "mortality"
+  },
+  {
+    "image": "healing",
+    "Option A": "hospitalization",
+    "Option B": "doctor",
+    "Option C": "healing",
+    "Option D": "operative"
+  },
+  {
+    "image": "health",
+    "Option A": "morning",
+    "Option B": "doctor",
+    "Option C": "health",
+    "Option D": "vigor"
+  },
+  {
+    "image": "hearing",
+    "Option A": "idle",
+    "Option B": "performance",
+    "Option C": "thinking",
+    "Option D": "hearing"
+  },
+  {
+    "image": "heartland",
+    "Option A": "provincial",
+    "Option B": "heartland",
+    "Option C": "farm",
+    "Option D": "commune"
+  },
+  {
+    "image": "heating",
+    "Option A": "solace",
+    "Option B": "downtime",
+    "Option C": "heating",
+    "Option D": "fondness"
+  },
+  {
+    "image": "heaven",
+    "Option A": "heaven",
+    "Option B": "soul",
+    "Option C": "salvation",
+    "Option D": "morality"
+  },
+  {
+    "image": "heavy",
+    "Option A": "labor",
+    "Option B": "framework",
+    "Option C": "heavy",
+    "Option D": "repair"
+  },
+  {
+    "image": "heir",
+    "Option A": "chosen",
+    "Option B": "lord",
+    "Option C": "reign",
+    "Option D": "heir"
+  },
+  {
+    "image": "hell",
+    "Option A": "killer",
+    "Option B": "wrath",
+    "Option C": "prayer",
+    "Option D": "hell"
+  },
+  {
+    "image": "hellhole",
+    "Option A": "evil",
+    "Option B": "almighty",
+    "Option C": "fervor",
+    "Option D": "hellhole"
+  },
+  {
+    "image": "help",
+    "Option A": "why",
+    "Option B": "desperate",
+    "Option C": "assessment",
+    "Option D": "help"
+  },
+  {
+    "image": "hereafter",
+    "Option A": "annunciation",
+    "Option B": "hereafter",
+    "Option C": "ascension",
+    "Option D": "divine"
+  },
+  {
+    "image": "heredity",
+    "Option A": "heredity",
+    "Option B": "lineage",
+    "Option C": "relative",
+    "Option D": "member"
+  },
+  {
+    "image": "heritage",
+    "Option A": "genealogy",
+    "Option B": "belonging",
+    "Option C": "past",
+    "Option D": "heritage"
+  },
+  {
+    "image": "hero",
+    "Option A": "private",
+    "Option B": "dissimilation",
+    "Option C": "horror",
+    "Option D": "hero"
+  },
+  {
+    "image": "hierarchy",
+    "Option A": "roman",
+    "Option B": "africa",
+    "Option C": "antiquity",
+    "Option D": "hierarchy"
+  },
+  {
+    "image": "hindu",
+    "Option A": "worship",
+    "Option B": "hindu",
+    "Option C": "spiritual",
+    "Option D": "zen"
+  },
+  {
+    "image": "history",
+    "Option A": "history",
+    "Option B": "genius",
+    "Option C": "sanctum",
+    "Option D": "prayer"
+  },
+  {
+    "image": "holiday",
+    "Option A": "midwinter",
+    "Option B": "abundance",
+    "Option C": "december",
+    "Option D": "holiday"
+  },
+  {
+    "image": "holidays",
+    "Option A": "happiness",
+    "Option B": "vacation",
+    "Option C": "holidays",
+    "Option D": "tired"
+  },
+  {
+    "image": "holiness",
+    "Option A": "veneration",
+    "Option B": "holiness",
+    "Option C": "repentance",
+    "Option D": "christianity"
+  },
+  {
+    "image": "holy",
+    "Option A": "christian",
+    "Option B": "holy",
+    "Option C": "priesthood",
+    "Option D": "devotion"
+  },
+  {
+    "image": "hometown",
+    "Option A": "living",
+    "Option B": "hometown",
+    "Option C": "play",
+    "Option D": "baroque"
+  },
+  {
+    "image": "honesty",
+    "Option A": "grievance",
+    "Option B": "judiciary",
+    "Option C": "honesty",
+    "Option D": "justice"
+  },
+  {
+    "image": "honor",
+    "Option A": "egomania",
+    "Option B": "supremacy",
+    "Option C": "chosen",
+    "Option D": "honor"
+  },
+  {
+    "image": "hope",
+    "Option A": "hope",
+    "Option B": "thing",
+    "Option C": "springtime",
+    "Option D": "comprehensive"
+  },
+  {
+    "image": "hopelessness",
+    "Option A": "passion",
+    "Option B": "unpleasantness",
+    "Option C": "hopelessness",
+    "Option D": "antipathy"
+  },
+  {
+    "image": "horror",
+    "Option A": "killer",
+    "Option B": "suspense",
+    "Option C": "malice",
+    "Option D": "horror"
+  },
+  {
+    "image": "hospitalization",
+    "Option A": "doctor",
+    "Option B": "hospitalization",
+    "Option C": "recuperation",
+    "Option D": "ill"
+  },
+  {
+    "image": "hostile",
+    "Option A": "providence",
+    "Option B": "hostile",
+    "Option C": "haunt",
+    "Option D": "suspense"
+  },
+  {
+    "image": "hostility",
+    "Option A": "hostility",
+    "Option B": "conflict",
+    "Option C": "war",
+    "Option D": "aggression"
+  },
+  {
+    "image": "hour",
+    "Option A": "locale",
+    "Option B": "hour",
+    "Option C": "nanosecond",
+    "Option D": "latitude"
+  },
+  {
+    "image": "humanity",
+    "Option A": "chill",
+    "Option B": "solstice",
+    "Option C": "humanity",
+    "Option D": "fellowship"
+  },
+  {
+    "image": "humor",
+    "Option A": "stupor",
+    "Option B": "acting",
+    "Option C": "humor",
+    "Option D": "sung"
+  },
+  {
+    "image": "hunger",
+    "Option A": "absorption",
+    "Option B": "hunger",
+    "Option C": "clean",
+    "Option D": "gathering"
+  },
+  {
+    "image": "hurry",
+    "Option A": "duration",
+    "Option B": "schedule",
+    "Option C": "hurry",
+    "Option D": "communication"
+  },
+  {
+    "image": "hygiene",
+    "Option A": "routine",
+    "Option B": "hygiene",
+    "Option C": "handling",
+    "Option D": "inactivation"
+  },
+  {
+    "image": "idea",
+    "Option A": "intellectualization",
+    "Option B": "plan",
+    "Option C": "thursday",
+    "Option D": "idea"
+  },
+  {
+    "image": "ideology",
+    "Option A": "harassment",
+    "Option B": "ideology",
+    "Option C": "feminist",
+    "Option D": "suffrage"
+  },
+  {
+    "image": "idle",
+    "Option A": "curriculum",
+    "Option B": "intellectual",
+    "Option C": "thursday",
+    "Option D": "idle"
+  },
+  {
+    "image": "ignition",
+    "Option A": "hatred",
+    "Option B": "ignition",
+    "Option C": "circulation",
+    "Option D": "causing"
+  },
+  {
+    "image": "ignorance",
+    "Option A": "confusion",
+    "Option B": "ignorance",
+    "Option C": "inquiry",
+    "Option D": "uncertainty"
+  },
+  {
+    "image": "ill",
+    "Option A": "ill",
+    "Option B": "hospitalization",
+    "Option C": "recuperation",
+    "Option D": "doctor"
+  },
+  {
+    "image": "illumination",
+    "Option A": "illumination",
+    "Option B": "mind",
+    "Option C": "answer",
+    "Option D": "presence"
+  },
+  {
+    "image": "imagination",
+    "Option A": "joy",
+    "Option B": "enchantment",
+    "Option C": "expansion",
+    "Option D": "imagination"
+  },
+  {
+    "image": "immortal",
+    "Option A": "wonder",
+    "Option B": "ascension",
+    "Option C": "utmost",
+    "Option D": "immortal"
+  },
+  {
+    "image": "immune",
+    "Option A": "microevolution",
+    "Option B": "immune",
+    "Option C": "implantation",
+    "Option D": "aeration"
+  },
+  {
+    "image": "immunity",
+    "Option A": "experiment",
+    "Option B": "theory",
+    "Option C": "testing",
+    "Option D": "immunity"
+  },
+  {
+    "image": "implantation",
+    "Option A": "permeation",
+    "Option B": "catalysis",
+    "Option C": "detail",
+    "Option D": "implantation"
+  },
+  {
+    "image": "implementation",
+    "Option A": "selection",
+    "Option B": "association",
+    "Option C": "implementation",
+    "Option D": "subset"
+  },
+  {
+    "image": "incentive",
+    "Option A": "accumulation",
+    "Option B": "incentive",
+    "Option C": "creditor",
+    "Option D": "inducement"
+  },
+  {
+    "image": "inclusion",
+    "Option A": "liberal",
+    "Option B": "solidarity",
+    "Option C": "inclusion",
+    "Option D": "voluntary"
+  },
+  {
+    "image": "increment",
+    "Option A": "institute",
+    "Option B": "add",
+    "Option C": "mathematics",
+    "Option D": "increment"
+  },
+  {
+    "image": "incumbency",
+    "Option A": "legislature",
+    "Option B": "incumbency",
+    "Option C": "suffrage",
+    "Option D": "law"
+  },
+  {
+    "image": "independence",
+    "Option A": "civilization",
+    "Option B": "independence",
+    "Option C": "squadron",
+    "Option D": "motherland"
+  },
+  {
+    "image": "independent",
+    "Option A": "independent",
+    "Option B": "university",
+    "Option C": "professionalization",
+    "Option D": "insight"
+  },
+  {
+    "image": "india",
+    "Option A": "zen",
+    "Option B": "reverence",
+    "Option C": "buddhism",
+    "Option D": "india"
+  },
+  {
+    "image": "indication",
+    "Option A": "haste",
+    "Option B": "indication",
+    "Option C": "pause",
+    "Option D": "going"
+  },
+  {
+    "image": "indifference",
+    "Option A": "indifference",
+    "Option B": "guess",
+    "Option C": "phrase",
+    "Option D": "disposition"
+  },
+  {
+    "image": "indignation",
+    "Option A": "indignation",
+    "Option B": "disaffection",
+    "Option C": "wartime",
+    "Option D": "crisis"
+  },
+  {
+    "image": "inducement",
+    "Option A": "asset",
+    "Option B": "inducement",
+    "Option C": "credit",
+    "Option D": "creditor"
+  },
+  {
+    "image": "industry",
+    "Option A": "globalization",
+    "Option B": "manpower",
+    "Option C": "industry",
+    "Option D": "architect"
+  },
+  {
+    "image": "infancy",
+    "Option A": "room",
+    "Option B": "morning",
+    "Option C": "infancy",
+    "Option D": "caretaker"
+  },
+  {
+    "image": "infatuation",
+    "Option A": "desire",
+    "Option B": "infatuation",
+    "Option C": "affection",
+    "Option D": "love"
+  },
+  {
+    "image": "inflation",
+    "Option A": "accumulation",
+    "Option B": "transfer",
+    "Option C": "finance",
+    "Option D": "inflation"
+  },
+  {
+    "image": "inflow",
+    "Option A": "extent",
+    "Option B": "province",
+    "Option C": "inflow",
+    "Option D": "confluence"
+  },
+  {
+    "image": "influx",
+    "Option A": "influx",
+    "Option B": "enterprise",
+    "Option C": "growth",
+    "Option D": "organization"
+  },
+  {
+    "image": "information",
+    "Option A": "information",
+    "Option B": "quarterly",
+    "Option C": "subject",
+    "Option D": "brief"
+  },
+  {
+    "image": "initial",
+    "Option A": "constitution",
+    "Option B": "dissolution",
+    "Option C": "initial",
+    "Option D": "significance"
+  },
+  {
+    "image": "initiate",
+    "Option A": "supernatural",
+    "Option B": "cult",
+    "Option C": "initiate",
+    "Option D": "worship"
+  },
+  {
+    "image": "initiative",
+    "Option A": "initiative",
+    "Option B": "apex",
+    "Option C": "escape",
+    "Option D": "isolation"
+  },
+  {
+    "image": "innocence",
+    "Option A": "expansion",
+    "Option B": "budding",
+    "Option C": "innocence",
+    "Option D": "sensitive"
+  },
+  {
+    "image": "innocent",
+    "Option A": "innocent",
+    "Option B": "dream",
+    "Option C": "expectancy",
+    "Option D": "peace"
+  },
+  {
+    "image": "inquiry",
+    "Option A": "guess",
+    "Option B": "confusion",
+    "Option C": "mind",
+    "Option D": "inquiry"
+  },
+  {
+    "image": "inquisition",
+    "Option A": "almighty",
+    "Option B": "doctrine",
+    "Option C": "inquisition",
+    "Option D": "wrath"
+  },
+  {
+    "image": "insight",
+    "Option A": "consortium",
+    "Option B": "situation",
+    "Option C": "management",
+    "Option D": "insight"
+  },
+  {
+    "image": "inspection",
+    "Option A": "assessment",
+    "Option B": "inspection",
+    "Option C": "steady",
+    "Option D": "alignment"
+  },
+  {
+    "image": "instability",
+    "Option A": "armageddon",
+    "Option B": "instability",
+    "Option C": "fault",
+    "Option D": "intensity"
+  },
+  {
+    "image": "instant",
+    "Option A": "instant",
+    "Option B": "habit",
+    "Option C": "afternoons",
+    "Option D": "daily"
+  },
+  {
+    "image": "institute",
+    "Option A": "curriculum",
+    "Option B": "academia",
+    "Option C": "lesson",
+    "Option D": "institute"
+  },
+  {
+    "image": "institution",
+    "Option A": "administration",
+    "Option B": "professionalization",
+    "Option C": "institution",
+    "Option D": "management"
+  },
+  {
+    "image": "instruction",
+    "Option A": "professionalization",
+    "Option B": "acquaintance",
+    "Option C": "administration",
+    "Option D": "instruction"
+  },
+  {
+    "image": "instrumentality",
+    "Option A": "science",
+    "Option B": "repair",
+    "Option C": "instrumentality",
+    "Option D": "lifespan"
+  },
+  {
+    "image": "insured",
+    "Option A": "insured",
+    "Option B": "insurer",
+    "Option C": "credit",
+    "Option D": "brief"
+  },
+  {
+    "image": "integrity",
+    "Option A": "purgatory",
+    "Option B": "conscience",
+    "Option C": "moral",
+    "Option D": "integrity"
+  },
+  {
+    "image": "intellectual",
+    "Option A": "idle",
+    "Option B": "basic",
+    "Option C": "reference",
+    "Option D": "intellectual"
+  },
+  {
+    "image": "intellectualization",
+    "Option A": "reference",
+    "Option B": "idle",
+    "Option C": "intellectualization",
+    "Option D": "curriculum"
+  },
+  {
+    "image": "intelligence",
+    "Option A": "think",
+    "Option B": "intelligence",
+    "Option C": "consciousness",
+    "Option D": "know"
+  },
+  {
+    "image": "intensity",
+    "Option A": "intensity",
+    "Option B": "perception",
+    "Option C": "armageddon",
+    "Option D": "wrath"
+  },
+  {
+    "image": "interaction",
+    "Option A": "courtesy",
+    "Option B": "afternoons",
+    "Option C": "encounter",
+    "Option D": "interaction"
+  },
+  {
+    "image": "interest",
+    "Option A": "rate",
+    "Option B": "interest",
+    "Option C": "transfer",
+    "Option D": "progress"
+  },
+  {
+    "image": "interference",
+    "Option A": "neutral",
+    "Option B": "large",
+    "Option C": "medium",
+    "Option D": "interference"
+  },
+  {
+    "image": "interlude",
+    "Option A": "theme",
+    "Option B": "octave",
+    "Option C": "tone",
+    "Option D": "interlude"
+  },
+  {
+    "image": "international",
+    "Option A": "international",
+    "Option B": "hour",
+    "Option C": "territorial",
+    "Option D": "capitalism"
+  },
+  {
+    "image": "interpretation",
+    "Option A": "trade",
+    "Option B": "tone",
+    "Option C": "populace",
+    "Option D": "interpretation"
+  },
+  {
+    "image": "interval",
+    "Option A": "interval",
+    "Option B": "inspiration",
+    "Option C": "talent",
+    "Option D": "chapter"
+  },
+  {
+    "image": "intervention",
+    "Option A": "intervention",
+    "Option B": "ill",
+    "Option C": "doctor",
+    "Option D": "specialist"
+  },
+  {
+    "image": "interview",
+    "Option A": "work",
+    "Option B": "commission",
+    "Option C": "due",
+    "Option D": "interview"
+  },
+  {
+    "image": "intimacy",
+    "Option A": "friend",
+    "Option B": "sensitiveness",
+    "Option C": "intimacy",
+    "Option D": "beloved"
+  },
+  {
+    "image": "intimate",
+    "Option A": "intimate",
+    "Option B": "purity",
+    "Option C": "romantic",
+    "Option D": "grace"
+  },
+  {
+    "image": "invention",
+    "Option A": "expert",
+    "Option B": "repair",
+    "Option C": "invention",
+    "Option D": "type"
+  },
+  {
+    "image": "investigation",
+    "Option A": "suspect",
+    "Option B": "investigation",
+    "Option C": "realism",
+    "Option D": "invention"
+  },
+  {
+    "image": "irregular",
+    "Option A": "longing",
+    "Option B": "inspiration",
+    "Option C": "salient",
+    "Option D": "irregular"
+  },
+  {
+    "image": "islam",
+    "Option A": "worship",
+    "Option B": "believing",
+    "Option C": "islam",
+    "Option D": "piety"
+  },
+  {
+    "image": "isolation",
+    "Option A": "providence",
+    "Option B": "isolation",
+    "Option C": "ultimate",
+    "Option D": "distress"
+  },
+  {
+    "image": "january",
+    "Option A": "november",
+    "Option B": "december",
+    "Option C": "warming",
+    "Option D": "january"
+  },
+  {
+    "image": "japan",
+    "Option A": "quiet",
+    "Option B": "spiritual",
+    "Option C": "japan",
+    "Option D": "ethnic"
+  },
+  {
+    "image": "jealousy",
+    "Option A": "sorrow",
+    "Option B": "exile",
+    "Option C": "jealousy",
+    "Option D": "peril"
+  },
+  {
+    "image": "job",
+    "Option A": "job",
+    "Option B": "administration",
+    "Option C": "corporation",
+    "Option D": "business"
+  },
+  {
+    "image": "journey",
+    "Option A": "journey",
+    "Option B": "maturity",
+    "Option C": "departure",
+    "Option D": "survival"
+  },
+  {
+    "image": "joy",
+    "Option A": "springtime",
+    "Option B": "unpleasantness",
+    "Option C": "imagination",
+    "Option D": "joy"
+  },
+  {
+    "image": "jubilee",
+    "Option A": "birthday",
+    "Option B": "jubilee",
+    "Option C": "delight",
+    "Option D": "present"
+  },
+  {
+    "image": "judge",
+    "Option A": "behalf",
+    "Option B": "trusteeship",
+    "Option C": "judgment",
+    "Option D": "judge"
+  },
+  {
+    "image": "judgment",
+    "Option A": "trusteeship",
+    "Option B": "judgment",
+    "Option C": "decree",
+    "Option D": "trial"
+  },
+  {
+    "image": "july",
+    "Option A": "surprise",
+    "Option B": "midsummer",
+    "Option C": "july",
+    "Option D": "federation"
+  },
+  {
+    "image": "jurisdiction",
+    "Option A": "objection",
+    "Option B": "jurisdiction",
+    "Option C": "protestant",
+    "Option D": "principles"
+  },
+  {
+    "image": "justice",
+    "Option A": "justice",
+    "Option B": "honesty",
+    "Option C": "decision",
+    "Option D": "principles"
+  },
+  {
+    "image": "justification",
+    "Option A": "advocate",
+    "Option B": "dispute",
+    "Option C": "judiciary",
+    "Option D": "justification"
+  },
+  {
+    "image": "keeping",
+    "Option A": "exclusion",
+    "Option B": "punishment",
+    "Option C": "opportunity",
+    "Option D": "keeping"
+  },
+  {
+    "image": "killer",
+    "Option A": "horror",
+    "Option B": "plague",
+    "Option C": "killer",
+    "Option D": "suspense"
+  },
+  {
+    "image": "kind",
+    "Option A": "impression",
+    "Option B": "peace",
+    "Option C": "acceptance",
+    "Option D": "kind"
+  },
+  {
+    "image": "kindness",
+    "Option A": "kindness",
+    "Option B": "food",
+    "Option C": "friendliness",
+    "Option D": "sociable"
+  },
+  {
+    "image": "kindred",
+    "Option A": "kindred",
+    "Option B": "merriment",
+    "Option C": "society",
+    "Option D": "pleasure"
+  },
+  {
+    "image": "kleptomania",
+    "Option A": "anguish",
+    "Option B": "debt",
+    "Option C": "kleptomania",
+    "Option D": "subordinate"
+  },
+  {
+    "image": "know",
+    "Option A": "thought",
+    "Option B": "know",
+    "Option C": "intelligence",
+    "Option D": "reasoning"
+  },
+  {
+    "image": "knowing",
+    "Option A": "thought",
+    "Option B": "understand",
+    "Option C": "knowing",
+    "Option D": "general"
+  },
+  {
+    "image": "latest",
+    "Option A": "topic",
+    "Option B": "multiprocessing",
+    "Option C": "aggravation",
+    "Option D": "latest"
+  },
+  {
+    "image": "law",
+    "Option A": "judiciary",
+    "Option B": "oath",
+    "Option C": "principles",
+    "Option D": "law"
+  },
+  {
+    "image": "lawmen",
+    "Option A": "behalf",
+    "Option B": "legislation",
+    "Option C": "tribunal",
+    "Option D": "lawmen"
+  },
+  {
+    "image": "lawyer",
+    "Option A": "trusteeship",
+    "Option B": "legislation",
+    "Option C": "dispute",
+    "Option D": "lawyer"
+  },
+  {
+    "image": "learning",
+    "Option A": "teacher",
+    "Option B": "learning",
+    "Option C": "substitute",
+    "Option D": "university"
+  },
+  {
+    "image": "leaving",
+    "Option A": "abandon",
+    "Option B": "leaving",
+    "Option C": "timid",
+    "Option D": "longing"
+  },
+  {
+    "image": "legend",
+    "Option A": "sir",
+    "Option B": "aristocracy",
+    "Option C": "legend",
+    "Option D": "power"
+  },
+  {
+    "image": "legislation",
+    "Option A": "dispute",
+    "Option B": "legislation",
+    "Option C": "advocate",
+    "Option D": "trusteeship"
+  },
+  {
+    "image": "legislature",
+    "Option A": "decree",
+    "Option B": "legislature",
+    "Option C": "incumbency",
+    "Option D": "law"
+  },
+  {
+    "image": "leisure",
+    "Option A": "downtime",
+    "Option B": "enlightened",
+    "Option C": "leisure",
+    "Option D": "inactivation"
+  },
+  {
+    "image": "lent",
+    "Option A": "lent",
+    "Option B": "repentance",
+    "Option C": "penance",
+    "Option D": "christianity"
+  },
+  {
+    "image": "lesson",
+    "Option A": "academia",
+    "Option B": "remark",
+    "Option C": "lesson",
+    "Option D": "institute"
+  },
+  {
+    "image": "level",
+    "Option A": "standard",
+    "Option B": "discovery",
+    "Option C": "precision",
+    "Option D": "level"
+  },
+  {
+    "image": "liability",
+    "Option A": "advocate",
+    "Option B": "liability",
+    "Option C": "legislation",
+    "Option D": "justification"
+  },
+  {
+    "image": "liberal",
+    "Option A": "rally",
+    "Option B": "liberal",
+    "Option C": "inclusion",
+    "Option D": "minority"
+  },
+  {
+    "image": "liberty",
+    "Option A": "conservative",
+    "Option B": "motherland",
+    "Option C": "liberty",
+    "Option D": "metropolitan"
+  },
+  {
+    "image": "lie",
+    "Option A": "life",
+    "Option B": "solace",
+    "Option C": "lie",
+    "Option D": "comfort"
+  },
+  {
+    "image": "life",
+    "Option A": "genotype",
+    "Option B": "imagination",
+    "Option C": "life",
+    "Option D": "existence"
+  },
+  {
+    "image": "lifespan",
+    "Option A": "temporal",
+    "Option B": "duration",
+    "Option C": "lifespan",
+    "Option D": "times"
+  },
+  {
+    "image": "lifetime",
+    "Option A": "century",
+    "Option B": "year",
+    "Option C": "surprise",
+    "Option D": "lifetime"
+  },
+  {
+    "image": "limitation",
+    "Option A": "opportunity",
+    "Option B": "limitation",
+    "Option C": "threshold",
+    "Option D": "combination"
+  },
+  {
+    "image": "lineage",
+    "Option A": "lineage",
+    "Option B": "belonging",
+    "Option C": "foster",
+    "Option D": "heredity"
+  },
+  {
+    "image": "listening",
+    "Option A": "drama",
+    "Option B": "listening",
+    "Option C": "theme",
+    "Option D": "performance"
+  },
+  {
+    "image": "living",
+    "Option A": "comfort",
+    "Option B": "living",
+    "Option C": "chef",
+    "Option D": "hometown"
+  },
+  {
+    "image": "loathing",
+    "Option A": "springtime",
+    "Option B": "gloom",
+    "Option C": "teaching",
+    "Option D": "loathing"
+  },
+  {
+    "image": "locale",
+    "Option A": "latitude",
+    "Option B": "leeway",
+    "Option C": "territorial",
+    "Option D": "locale"
+  },
+  {
+    "image": "longing",
+    "Option A": "longing",
+    "Option B": "sooner",
+    "Option C": "dawning",
+    "Option D": "solace"
+  },
+  {
+    "image": "lookup",
+    "Option A": "lookup",
+    "Option B": "curriculum",
+    "Option C": "reference",
+    "Option D": "lawyer"
+  },
+  {
+    "image": "lord",
+    "Option A": "reign",
+    "Option B": "heir",
+    "Option C": "lord",
+    "Option D": "chosen"
+  },
+  {
+    "image": "lost",
+    "Option A": "finding",
+    "Option B": "lost",
+    "Option C": "leeway",
+    "Option D": "longitude"
+  },
+  {
+    "image": "love",
+    "Option A": "affair",
+    "Option B": "infatuation",
+    "Option C": "darling",
+    "Option D": "love"
+  },
+  {
+    "image": "lovely",
+    "Option A": "lovely",
+    "Option B": "view",
+    "Option C": "alleviation",
+    "Option D": "starting"
+  },
+  {
+    "image": "low",
+    "Option A": "secret",
+    "Option B": "guilt",
+    "Option C": "low",
+    "Option D": "embarrassment"
+  },
+  {
+    "image": "loyalty",
+    "Option A": "fondness",
+    "Option B": "attribute",
+    "Option C": "loyalty",
+    "Option D": "adoration"
+  },
+  {
+    "image": "luck",
+    "Option A": "probability",
+    "Option B": "likelihood",
+    "Option C": "circumstances",
+    "Option D": "luck"
+  },
+  {
+    "image": "lull",
+    "Option A": "lull",
+    "Option B": "tonight",
+    "Option C": "bedtime",
+    "Option D": "romance"
+  },
+  {
+    "image": "lust",
+    "Option A": "grace",
+    "Option B": "lust",
+    "Option C": "purity",
+    "Option D": "intimacy"
+  },
+  {
+    "image": "luxury",
+    "Option A": "living",
+    "Option B": "luxury",
+    "Option C": "prosperity",
+    "Option D": "baroque"
+  },
+  {
+    "image": "madness",
+    "Option A": "madness",
+    "Option B": "malice",
+    "Option C": "silly",
+    "Option D": "evil"
+  },
+  {
+    "image": "magic",
+    "Option A": "fright",
+    "Option B": "imagination",
+    "Option C": "possession",
+    "Option D": "magic"
+  },
+  {
+    "image": "maintenance",
+    "Option A": "construct",
+    "Option B": "maintenance",
+    "Option C": "precision",
+    "Option D": "engineer"
+  },
+  {
+    "image": "majesty",
+    "Option A": "lord",
+    "Option B": "majesty",
+    "Option C": "nobility",
+    "Option D": "monarchy"
+  },
+  {
+    "image": "major",
+    "Option A": "major",
+    "Option B": "subject",
+    "Option C": "academia",
+    "Option D": "institute"
+  },
+  {
+    "image": "majority",
+    "Option A": "majority",
+    "Option B": "feedback",
+    "Option C": "economics",
+    "Option D": "workweek"
+  },
+  {
+    "image": "malice",
+    "Option A": "horror",
+    "Option B": "fright",
+    "Option C": "demise",
+    "Option D": "malice"
+  },
+  {
+    "image": "management",
+    "Option A": "management",
+    "Option B": "professionalization",
+    "Option C": "proceedings",
+    "Option D": "enterprise"
+  },
+  {
+    "image": "manifest",
+    "Option A": "resignation",
+    "Option B": "manifest",
+    "Option C": "issuer",
+    "Option D": "accounting"
+  },
+  {
+    "image": "manpower",
+    "Option A": "industry",
+    "Option B": "manpower",
+    "Option C": "production",
+    "Option D": "engineer"
+  },
+  {
+    "image": "marketing",
+    "Option A": "marketing",
+    "Option B": "transient",
+    "Option C": "public",
+    "Option D": "civilization"
+  },
+  {
+    "image": "married",
+    "Option A": "fidelity",
+    "Option B": "proposal",
+    "Option C": "married",
+    "Option D": "desire"
+  },
+  {
+    "image": "masquerade",
+    "Option A": "masquerade",
+    "Option B": "france",
+    "Option C": "harmony",
+    "Option D": "lust"
+  },
+  {
+    "image": "master",
+    "Option A": "plan",
+    "Option B": "nobility",
+    "Option C": "master",
+    "Option D": "power"
+  },
+  {
+    "image": "mathematics",
+    "Option A": "mathematics",
+    "Option B": "add",
+    "Option C": "differential",
+    "Option D": "derivation"
+  },
+  {
+    "image": "maturity",
+    "Option A": "prospect",
+    "Option B": "maturity",
+    "Option C": "survival",
+    "Option D": "ultimate"
+  },
+  {
+    "image": "meantime",
+    "Option A": "meantime",
+    "Option B": "times",
+    "Option C": "anticipation",
+    "Option D": "duration"
+  },
+  {
+    "image": "measurement",
+    "Option A": "synergism",
+    "Option B": "standard",
+    "Option C": "instrumentality",
+    "Option D": "measurement"
+  },
+  {
+    "image": "medical",
+    "Option A": "operative",
+    "Option B": "specialty",
+    "Option C": "medical",
+    "Option D": "assist"
+  },
+  {
+    "image": "meeting",
+    "Option A": "proceedings",
+    "Option B": "meeting",
+    "Option C": "situation",
+    "Option D": "presentation"
+  },
+  {
+    "image": "melancholy",
+    "Option A": "despair",
+    "Option B": "defeated",
+    "Option C": "grace",
+    "Option D": "melancholy"
+  },
+  {
+    "image": "meltdown",
+    "Option A": "pyromania",
+    "Option B": "meltdown",
+    "Option C": "experiment",
+    "Option D": "severity"
+  },
+  {
+    "image": "member",
+    "Option A": "member",
+    "Option B": "academic",
+    "Option C": "reference",
+    "Option D": "intellectualization"
+  },
+  {
+    "image": "membership",
+    "Option A": "brief",
+    "Option B": "membership",
+    "Option C": "insurer",
+    "Option D": "identification"
+  },
+  {
+    "image": "memory",
+    "Option A": "think",
+    "Option B": "topic",
+    "Option C": "know",
+    "Option D": "memory"
+  },
+  {
+    "image": "mention",
+    "Option A": "sending",
+    "Option B": "mention",
+    "Option C": "nowadays",
+    "Option D": "clustering"
+  },
+  {
+    "image": "mercy",
+    "Option A": "zenith",
+    "Option B": "mercy",
+    "Option C": "annunciation",
+    "Option D": "sensitive"
+  },
+  {
+    "image": "merriment",
+    "Option A": "friendly",
+    "Option B": "insight",
+    "Option C": "merriment",
+    "Option D": "born"
+  },
+  {
+    "image": "messiah",
+    "Option A": "faith",
+    "Option B": "veneration",
+    "Option C": "morality",
+    "Option D": "messiah"
+  },
+  {
+    "image": "mexico",
+    "Option A": "wonder",
+    "Option B": "india",
+    "Option C": "mexico",
+    "Option D": "utmost"
+  },
+  {
+    "image": "midsummer",
+    "Option A": "pleasure",
+    "Option B": "excitement",
+    "Option C": "playfulness",
+    "Option D": "midsummer"
+  },
+  {
+    "image": "midwinter",
+    "Option A": "noel",
+    "Option B": "midwinter",
+    "Option C": "solace",
+    "Option D": "holiday"
+  },
+  {
+    "image": "millennia",
+    "Option A": "thought",
+    "Option B": "fiction",
+    "Option C": "millennia",
+    "Option D": "science"
+  },
+  {
+    "image": "mind",
+    "Option A": "guess",
+    "Option B": "thought",
+    "Option C": "mind",
+    "Option D": "revelation"
+  },
+  {
+    "image": "ministry",
+    "Option A": "christian",
+    "Option B": "devotion",
+    "Option C": "ministry",
+    "Option D": "priesthood"
+  },
+  {
+    "image": "minority",
+    "Option A": "minority",
+    "Option B": "suffrage",
+    "Option C": "inclusion",
+    "Option D": "liberal"
+  },
+  {
+    "image": "minute",
+    "Option A": "temporal",
+    "Option B": "times",
+    "Option C": "precision",
+    "Option D": "minute"
+  },
+  {
+    "image": "mirth",
+    "Option A": "birthday",
+    "Option B": "present",
+    "Option C": "exuberance",
+    "Option D": "mirth"
+  },
+  {
+    "image": "misery",
+    "Option A": "failure",
+    "Option B": "complaint",
+    "Option C": "misery",
+    "Option D": "cynicism"
+  },
+  {
+    "image": "miss",
+    "Option A": "tearing",
+    "Option B": "circulation",
+    "Option C": "miss",
+    "Option D": "hopelessness"
+  },
+  {
+    "image": "mistake",
+    "Option A": "mistake",
+    "Option B": "academic",
+    "Option C": "constant",
+    "Option D": "logic"
+  },
+  {
+    "image": "mobility",
+    "Option A": "alert",
+    "Option B": "generation",
+    "Option C": "mobility",
+    "Option D": "hospitalization"
+  },
+  {
+    "image": "modern",
+    "Option A": "downtime",
+    "Option B": "metropolitan",
+    "Option C": "domestic",
+    "Option D": "modern"
+  },
+  {
+    "image": "moment",
+    "Option A": "times",
+    "Option B": "moment",
+    "Option C": "temporal",
+    "Option D": "anticipation"
+  },
+  {
+    "image": "momentum",
+    "Option A": "july",
+    "Option B": "momentum",
+    "Option C": "exultation",
+    "Option D": "burst"
+  },
+  {
+    "image": "monarchy",
+    "Option A": "chosen",
+    "Option B": "times",
+    "Option C": "god",
+    "Option D": "monarchy"
+  },
+  {
+    "image": "monday",
+    "Option A": "thursday",
+    "Option B": "duration",
+    "Option C": "times",
+    "Option D": "monday"
+  },
+  {
+    "image": "monopoly",
+    "Option A": "eldest",
+    "Option B": "monopoly",
+    "Option C": "baroque",
+    "Option D": "goddess"
+  },
+  {
+    "image": "mood",
+    "Option A": "hopelessness",
+    "Option B": "mood",
+    "Option C": "disposition",
+    "Option D": "presence"
+  },
+  {
+    "image": "moral",
+    "Option A": "trusteeship",
+    "Option B": "moral",
+    "Option C": "honesty",
+    "Option D": "justification"
+  },
+  {
+    "image": "morale",
+    "Option A": "morale",
+    "Option B": "outset",
+    "Option C": "superiority",
+    "Option D": "ambition"
+  },
+  {
+    "image": "morality",
+    "Option A": "morality",
+    "Option B": "offer",
+    "Option C": "bliss",
+    "Option D": "chosen"
+  },
+  {
+    "image": "morning",
+    "Option A": "morning",
+    "Option B": "tomorrow",
+    "Option C": "solace",
+    "Option D": "forenoon"
+  },
+  {
+    "image": "mortality",
+    "Option A": "mortality",
+    "Option B": "haunt",
+    "Option C": "plague",
+    "Option D": "evil"
+  },
+  {
+    "image": "mourning",
+    "Option A": "mourning",
+    "Option B": "understand",
+    "Option C": "accept",
+    "Option D": "bliss"
+  },
+  {
+    "image": "multiprocessing",
+    "Option A": "array",
+    "Option B": "association",
+    "Option C": "multiprocessing",
+    "Option D": "tech"
+  },
+  {
+    "image": "muslim",
+    "Option A": "covenant",
+    "Option B": "christian",
+    "Option C": "faithful",
+    "Option D": "muslim"
+  },
+  {
+    "image": "mystery",
+    "Option A": "expert",
+    "Option B": "possibility",
+    "Option C": "invention",
+    "Option D": "mystery"
+  },
+  {
+    "image": "myth",
+    "Option A": "heaven",
+    "Option B": "defense",
+    "Option C": "myth",
+    "Option D": "empire"
+  },
+  {
+    "image": "mythology",
+    "Option A": "chosen",
+    "Option B": "empire",
+    "Option C": "mythology",
+    "Option D": "roman"
+  },
+  {
+    "image": "narrative",
+    "Option A": "survival",
+    "Option B": "dissolution",
+    "Option C": "necessity",
+    "Option D": "narrative"
+  },
+  {
+    "image": "national",
+    "Option A": "republic",
+    "Option B": "national",
+    "Option C": "democracy",
+    "Option D": "government"
+  },
+  {
+    "image": "nationalism",
+    "Option A": "soviet",
+    "Option B": "nationalism",
+    "Option C": "sovereignty",
+    "Option D": "conservative"
+  },
+  {
+    "image": "nationalist",
+    "Option A": "dictatorship",
+    "Option B": "nationalist",
+    "Option C": "socialist",
+    "Option D": "commonwealth"
+  },
+  {
+    "image": "nationality",
+    "Option A": "vacation",
+    "Option B": "transient",
+    "Option C": "nationality",
+    "Option D": "territorial"
+  },
+  {
+    "image": "native",
+    "Option A": "spiritual",
+    "Option B": "india",
+    "Option C": "quiet",
+    "Option D": "native"
+  },
+  {
+    "image": "natural",
+    "Option A": "budding",
+    "Option B": "saturation",
+    "Option C": "natural",
+    "Option D": "extent"
+  },
+  {
+    "image": "nature",
+    "Option A": "confluence",
+    "Option B": "outskirts",
+    "Option C": "nature",
+    "Option D": "starting"
+  },
+  {
+    "image": "neglect",
+    "Option A": "condemn",
+    "Option B": "degeneration",
+    "Option C": "severity",
+    "Option D": "neglect"
+  },
+  {
+    "image": "neolithic",
+    "Option A": "native",
+    "Option B": "neolithic",
+    "Option C": "survival",
+    "Option D": "backwoods"
+  },
+  {
+    "image": "network",
+    "Option A": "technology",
+    "Option B": "topic",
+    "Option C": "complex",
+    "Option D": "network"
+  },
+  {
+    "image": "news",
+    "Option A": "news",
+    "Option B": "performance",
+    "Option C": "workweek",
+    "Option D": "thursday"
+  },
+  {
+    "image": "nobility",
+    "Option A": "technology",
+    "Option B": "principality",
+    "Option C": "nobility",
+    "Option D": "native"
+  },
+  {
+    "image": "noble",
+    "Option A": "principality",
+    "Option B": "noble",
+    "Option C": "chosen",
+    "Option D": "native"
+  },
+  {
+    "image": "noel",
+    "Option A": "noel",
+    "Option B": "midwinter",
+    "Option C": "thanksgiving",
+    "Option D": "fondness"
+  },
+  {
+    "image": "north",
+    "Option A": "gloom",
+    "Option B": "northland",
+    "Option C": "north",
+    "Option D": "solitary"
+  },
+  {
+    "image": "northern",
+    "Option A": "heating",
+    "Option B": "fondness",
+    "Option C": "warming",
+    "Option D": "northern"
+  },
+  {
+    "image": "northern",
+    "Option A": "warming",
+    "Option B": "fondness",
+    "Option C": "heating",
+    "Option D": "northern"
+  },
+  {
+    "image": "northland",
+    "Option A": "solitary",
+    "Option B": "wildness",
+    "Option C": "northland",
+    "Option D": "adaption"
+  },
+  {
+    "image": "nostalgia",
+    "Option A": "sooner",
+    "Option B": "nostalgia",
+    "Option C": "daily",
+    "Option D": "afternoons"
+  },
+  {
+    "image": "notion",
+    "Option A": "know",
+    "Option B": "think",
+    "Option C": "notion",
+    "Option D": "commission"
+  },
+  {
+    "image": "november",
+    "Option A": "sabbath",
+    "Option B": "gathering",
+    "Option C": "november",
+    "Option D": "heating"
+  },
+  {
+    "image": "number",
+    "Option A": "number",
+    "Option B": "thursday",
+    "Option C": "assessment",
+    "Option D": "derivation"
+  },
+  {
+    "image": "nutrition",
+    "Option A": "training",
+    "Option B": "discipline",
+    "Option C": "vitality",
+    "Option D": "nutrition"
+  },
+  {
+    "image": "oath",
+    "Option A": "oath",
+    "Option B": "conviction",
+    "Option C": "law",
+    "Option D": "tribunal"
+  },
+  {
+    "image": "objection",
+    "Option A": "behalf",
+    "Option B": "objection",
+    "Option C": "jurisdiction",
+    "Option D": "judgment"
+  },
+  {
+    "image": "observation",
+    "Option A": "observation",
+    "Option B": "science",
+    "Option C": "seeking",
+    "Option D": "finding"
+  },
+  {
+    "image": "octave",
+    "Option A": "interlude",
+    "Option B": "unfolding",
+    "Option C": "octave",
+    "Option D": "tone"
+  },
+  {
+    "image": "october",
+    "Option A": "boyhood",
+    "Option B": "fright",
+    "Option C": "october",
+    "Option D": "possession"
+  },
+  {
+    "image": "odds",
+    "Option A": "probable",
+    "Option B": "contingent",
+    "Option C": "odds",
+    "Option D": "chance"
+  },
+  {
+    "image": "offer",
+    "Option A": "deal",
+    "Option B": "offer",
+    "Option C": "discussion",
+    "Option D": "alliance"
+  },
+  {
+    "image": "offering",
+    "Option A": "surprise",
+    "Option B": "enjoyment",
+    "Option C": "offering",
+    "Option D": "appreciation"
+  },
+  {
+    "image": "official",
+    "Option A": "promotion",
+    "Option B": "possess",
+    "Option C": "experience",
+    "Option D": "official"
+  },
+  {
+    "image": "operation",
+    "Option A": "operation",
+    "Option B": "specialist",
+    "Option C": "specialty",
+    "Option D": "doctor"
+  },
+  {
+    "image": "opinion",
+    "Option A": "opinion",
+    "Option B": "debtor",
+    "Option C": "stress",
+    "Option D": "withdrawal"
+  },
+  {
+    "image": "opportunity",
+    "Option A": "discovery",
+    "Option B": "opportunity",
+    "Option C": "combination",
+    "Option D": "limitation"
+  },
+  {
+    "image": "opposition",
+    "Option A": "decree",
+    "Option B": "federal",
+    "Option C": "opposition",
+    "Option D": "commonwealth"
+  },
+  {
+    "image": "optimism",
+    "Option A": "beauty",
+    "Option B": "innocence",
+    "Option C": "optimism",
+    "Option D": "goodness"
+  },
+  {
+    "image": "organization",
+    "Option A": "enterprise",
+    "Option B": "organization",
+    "Option C": "business",
+    "Option D": "patriarchy"
+  },
+  {
+    "image": "outrage",
+    "Option A": "doomsday",
+    "Option B": "outrage",
+    "Option C": "antipathy",
+    "Option D": "destruction"
+  },
+  {
+    "image": "outskirt",
+    "Option A": "outskirt",
+    "Option B": "living",
+    "Option C": "exhausted",
+    "Option D": "oxygen"
+  },
+  {
+    "image": "overtime",
+    "Option A": "smart",
+    "Option B": "distress",
+    "Option C": "analysis",
+    "Option D": "overtime"
+  },
+  {
+    "image": "pace",
+    "Option A": "ambition",
+    "Option B": "player",
+    "Option C": "vigor",
+    "Option D": "pace"
+  },
+  {
+    "image": "pagan",
+    "Option A": "divinity",
+    "Option B": "starting",
+    "Option C": "pagan",
+    "Option D": "prayer"
+  },
+  {
+    "image": "panic",
+    "Option A": "panic",
+    "Option B": "con",
+    "Option C": "last",
+    "Option D": "burden"
+  },
+  {
+    "image": "paradise",
+    "Option A": "friday",
+    "Option B": "alleviation",
+    "Option C": "paradise",
+    "Option D": "beauty"
+  },
+  {
+    "image": "partnership",
+    "Option A": "acquaintance",
+    "Option B": "consortium",
+    "Option C": "partnership",
+    "Option D": "accordance"
+  },
+  {
+    "image": "passion",
+    "Option A": "libido",
+    "Option B": "verb",
+    "Option C": "passion",
+    "Option D": "disappointment"
+  },
+  {
+    "image": "past",
+    "Option A": "type",
+    "Option B": "significance",
+    "Option C": "latitude",
+    "Option D": "past"
+  },
+  {
+    "image": "patience",
+    "Option A": "anticipation",
+    "Option B": "timing",
+    "Option C": "patience",
+    "Option D": "synergism"
+  },
+  {
+    "image": "patriotism",
+    "Option A": "commonwealth",
+    "Option B": "soviet",
+    "Option C": "regime",
+    "Option D": "patriotism"
+  },
+  {
+    "image": "payable",
+    "Option A": "creditor",
+    "Option B": "bid",
+    "Option C": "payable",
+    "Option D": "deadline"
+  },
+  {
+    "image": "peace",
+    "Option A": "growth",
+    "Option B": "beauty",
+    "Option C": "peace",
+    "Option D": "holiness"
+  },
+  {
+    "image": "peacetime",
+    "Option A": "peacetime",
+    "Option B": "divinity",
+    "Option C": "heaven",
+    "Option D": "divine"
+  },
+  {
+    "image": "pedigree",
+    "Option A": "collect",
+    "Option B": "member",
+    "Option C": "pedigree",
+    "Option D": "lineage"
+  },
+  {
+    "image": "penance",
+    "Option A": "christianity",
+    "Option B": "penance",
+    "Option C": "morality",
+    "Option D": "divinity"
+  },
+  {
+    "image": "percolation",
+    "Option A": "forenoon",
+    "Option B": "idle",
+    "Option C": "percolation",
+    "Option D": "morning"
+  },
+  {
+    "image": "performance",
+    "Option A": "performance",
+    "Option B": "listening",
+    "Option C": "glee",
+    "Option D": "sounding"
+  },
+  {
+    "image": "peril",
+    "Option A": "fervor",
+    "Option B": "peril",
+    "Option C": "depth",
+    "Option D": "nature"
+  },
+  {
+    "image": "permit",
+    "Option A": "issuer",
+    "Option B": "permit",
+    "Option C": "possess",
+    "Option D": "experience"
+  },
+  {
+    "image": "personal",
+    "Option A": "intellectual",
+    "Option B": "type",
+    "Option C": "personal",
+    "Option D": "logic"
+  },
+  {
+    "image": "perspective",
+    "Option A": "singular",
+    "Option B": "past",
+    "Option C": "perspective",
+    "Option D": "regard"
+  },
+  {
+    "image": "pessimism",
+    "Option A": "pessimism",
+    "Option B": "gloom",
+    "Option C": "clouding",
+    "Option D": "distress"
+  },
+  {
+    "image": "philharmonic",
+    "Option A": "philharmonic",
+    "Option B": "tone",
+    "Option C": "interlude",
+    "Option D": "aim"
+  },
+  {
+    "image": "philosophy",
+    "Option A": "law",
+    "Option B": "philosophy",
+    "Option C": "discovery",
+    "Option D": "academia"
+  },
+  {
+    "image": "piety",
+    "Option A": "prayer",
+    "Option B": "christianity",
+    "Option C": "ministry",
+    "Option D": "piety"
+  },
+  {
+    "image": "pinpoint",
+    "Option A": "pinpoint",
+    "Option B": "territorial",
+    "Option C": "distance",
+    "Option D": "dimension"
+  },
+  {
+    "image": "pity",
+    "Option A": "woe",
+    "Option B": "impression",
+    "Option C": "courtesy",
+    "Option D": "pity"
+  },
+  {
+    "image": "placement",
+    "Option A": "partnership",
+    "Option B": "commission",
+    "Option C": "placement",
+    "Option D": "counseling"
+  },
+  {
+    "image": "plague",
+    "Option A": "plague",
+    "Option B": "sadness",
+    "Option C": "distress",
+    "Option D": "woe"
+  },
+  {
+    "image": "plan",
+    "Option A": "idle",
+    "Option B": "appointment",
+    "Option C": "plan",
+    "Option D": "quarterly"
+  },
+  {
+    "image": "plenty",
+    "Option A": "creditor",
+    "Option B": "transfer",
+    "Option C": "plenty",
+    "Option D": "denomination"
+  },
+  {
+    "image": "policy",
+    "Option A": "republic",
+    "Option B": "democracy",
+    "Option C": "policy",
+    "Option D": "commonwealth"
+  },
+  {
+    "image": "poor",
+    "Option A": "over",
+    "Option B": "struggle",
+    "Option C": "poor",
+    "Option D": "moratorium"
+  },
+  {
+    "image": "populace",
+    "Option A": "outset",
+    "Option B": "globalization",
+    "Option C": "progress",
+    "Option D": "populace"
+  },
+  {
+    "image": "popularity",
+    "Option A": "popularity",
+    "Option B": "prominence",
+    "Option C": "mention",
+    "Option D": "discourse"
+  },
+  {
+    "image": "pose",
+    "Option A": "pose",
+    "Option B": "whole",
+    "Option C": "urge",
+    "Option D": "participant"
+  },
+  {
+    "image": "positive",
+    "Option A": "paradise",
+    "Option B": "positive",
+    "Option C": "august",
+    "Option D": "play"
+  },
+  {
+    "image": "possess",
+    "Option A": "possess",
+    "Option B": "official",
+    "Option C": "insured",
+    "Option D": "consideration"
+  },
+  {
+    "image": "possession",
+    "Option A": "possession",
+    "Option B": "materialization",
+    "Option C": "demise",
+    "Option D": "magic"
+  },
+  {
+    "image": "postponement",
+    "Option A": "tomorrow",
+    "Option B": "timing",
+    "Option C": "postponement",
+    "Option D": "schedule"
+  },
+  {
+    "image": "posture",
+    "Option A": "posture",
+    "Option B": "alternative",
+    "Option C": "zen",
+    "Option D": "concentration"
+  },
+  {
+    "image": "potential",
+    "Option A": "regeneration",
+    "Option B": "progress",
+    "Option C": "peace",
+    "Option D": "potential"
+  },
+  {
+    "image": "poverty",
+    "Option A": "repugnance",
+    "Option B": "departed",
+    "Option C": "grief",
+    "Option D": "poverty"
+  },
+  {
+    "image": "power",
+    "Option A": "power",
+    "Option B": "baroque",
+    "Option C": "principality",
+    "Option D": "heir"
+  },
+  {
+    "image": "practice",
+    "Option A": "nostalgia",
+    "Option B": "vitality",
+    "Option C": "practice",
+    "Option D": "inspiration"
+  },
+  {
+    "image": "prayer",
+    "Option A": "priesthood",
+    "Option B": "catholic",
+    "Option C": "divinity",
+    "Option D": "prayer"
+  },
+  {
+    "image": "precision",
+    "Option A": "duration",
+    "Option B": "lifespan",
+    "Option C": "temporal",
+    "Option D": "precision"
+  },
+  {
+    "image": "prehistory",
+    "Option A": "wrath",
+    "Option B": "prehistory",
+    "Option C": "initiative",
+    "Option D": "wonder"
+  },
+  {
+    "image": "premonition",
+    "Option A": "premonition",
+    "Option B": "spell",
+    "Option C": "posterity",
+    "Option D": "expectation"
+  },
+  {
+    "image": "preparation",
+    "Option A": "preparation",
+    "Option B": "criteria",
+    "Option C": "quarterly",
+    "Option D": "furlough"
+  },
+  {
+    "image": "presence",
+    "Option A": "mind",
+    "Option B": "illumination",
+    "Option C": "presence",
+    "Option D": "willing"
+  },
+  {
+    "image": "preserve",
+    "Option A": "capacity",
+    "Option B": "provision",
+    "Option C": "preserve",
+    "Option D": "equivalent"
+  },
+  {
+    "image": "prestige",
+    "Option A": "incentive",
+    "Option B": "reputation",
+    "Option C": "satisfaction",
+    "Option D": "prestige"
+  },
+  {
+    "image": "prevention",
+    "Option A": "prevention",
+    "Option B": "assistance",
+    "Option C": "safety",
+    "Option D": "decline"
+  },
+  {
+    "image": "pride",
+    "Option A": "pride",
+    "Option B": "empathy",
+    "Option C": "tolerance",
+    "Option D": "diversity"
+  },
+  {
+    "image": "priesthood",
+    "Option A": "devotion",
+    "Option B": "priesthood",
+    "Option C": "catholic",
+    "Option D": "christian"
+  },
+  {
+    "image": "primitive",
+    "Option A": "awareness",
+    "Option B": "primitive",
+    "Option C": "carbonization",
+    "Option D": "refuge"
+  },
+  {
+    "image": "principality",
+    "Option A": "reign",
+    "Option B": "supremacy",
+    "Option C": "principality",
+    "Option D": "chosen"
+  },
+  {
+    "image": "principle",
+    "Option A": "advocate",
+    "Option B": "principle",
+    "Option C": "legislation",
+    "Option D": "justification"
+  },
+  {
+    "image": "principles",
+    "Option A": "advocate",
+    "Option B": "principles",
+    "Option C": "legislation",
+    "Option D": "justification"
+  },
+  {
+    "image": "privacy",
+    "Option A": "work",
+    "Option B": "type",
+    "Option C": "productivity",
+    "Option D": "privacy"
+  },
+  {
+    "image": "private",
+    "Option A": "private",
+    "Option B": "defeated",
+    "Option C": "sin",
+    "Option D": "inquisition"
+  },
+  {
+    "image": "privilege",
+    "Option A": "fancy",
+    "Option B": "exclusive",
+    "Option C": "privilege",
+    "Option D": "midair"
+  },
+  {
+    "image": "probability",
+    "Option A": "probability",
+    "Option B": "fair",
+    "Option C": "circumstances",
+    "Option D": "compulsion"
+  },
+  {
+    "image": "probable",
+    "Option A": "probable",
+    "Option B": "odds",
+    "Option C": "risk",
+    "Option D": "chance"
+  },
+  {
+    "image": "problem",
+    "Option A": "guess",
+    "Option B": "thought",
+    "Option C": "think",
+    "Option D": "problem"
+  },
+  {
+    "image": "proceedings",
+    "Option A": "proceedings",
+    "Option B": "professionalization",
+    "Option C": "enterprise",
+    "Option D": "management"
+  },
+  {
+    "image": "producer",
+    "Option A": "drama",
+    "Option B": "acting",
+    "Option C": "tone",
+    "Option D": "producer"
+  },
+  {
+    "image": "production",
+    "Option A": "bulk",
+    "Option B": "manpower",
+    "Option C": "production",
+    "Option D": "construct"
+  },
+  {
+    "image": "productivity",
+    "Option A": "privacy",
+    "Option B": "semester",
+    "Option C": "productivity",
+    "Option D": "schedule"
+  },
+  {
+    "image": "profession",
+    "Option A": "counseling",
+    "Option B": "business",
+    "Option C": "enterprise",
+    "Option D": "profession"
+  },
+  {
+    "image": "professional",
+    "Option A": "patriarchy",
+    "Option B": "situation",
+    "Option C": "corporation",
+    "Option D": "professional"
+  },
+  {
+    "image": "professionalization",
+    "Option A": "administration",
+    "Option B": "corporation",
+    "Option C": "professionalization",
+    "Option D": "business"
+  },
+  {
+    "image": "professor",
+    "Option A": "derivation",
+    "Option B": "consortium",
+    "Option C": "curriculum",
+    "Option D": "professor"
+  },
+  {
+    "image": "progress",
+    "Option A": "forefront",
+    "Option B": "assessment",
+    "Option C": "progress",
+    "Option D": "revelation"
+  },
+  {
+    "image": "prominence",
+    "Option A": "listening",
+    "Option B": "prominence",
+    "Option C": "sounding",
+    "Option D": "acting"
+  },
+  {
+    "image": "promotion",
+    "Option A": "deal",
+    "Option B": "acquisition",
+    "Option C": "promotion",
+    "Option D": "workweek"
+  },
+  {
+    "image": "propensity",
+    "Option A": "propensity",
+    "Option B": "add",
+    "Option C": "rate",
+    "Option D": "contingent"
+  },
+  {
+    "image": "proposal",
+    "Option A": "affection",
+    "Option B": "promise",
+    "Option C": "desire",
+    "Option D": "proposal"
+  },
+  {
+    "image": "prospect",
+    "Option A": "prospect",
+    "Option B": "necessity",
+    "Option C": "survival",
+    "Option D": "latitude"
+  },
+  {
+    "image": "prosperity",
+    "Option A": "capitalism",
+    "Option B": "asset",
+    "Option C": "accumulation",
+    "Option D": "prosperity"
+  },
+  {
+    "image": "protection",
+    "Option A": "enforcement",
+    "Option B": "trepidation",
+    "Option C": "galvanization",
+    "Option D": "protection"
+  },
+  {
+    "image": "protest",
+    "Option A": "rally",
+    "Option B": "revolutionary",
+    "Option C": "suffrage",
+    "Option D": "protest"
+  },
+  {
+    "image": "protocol",
+    "Option A": "professional",
+    "Option B": "commission",
+    "Option C": "counseling",
+    "Option D": "protocol"
+  },
+  {
+    "image": "psychic",
+    "Option A": "psychic",
+    "Option B": "possession",
+    "Option C": "lack",
+    "Option D": "posterity"
+  },
+  {
+    "image": "psychogenesis",
+    "Option A": "insanity",
+    "Option B": "psychogenesis",
+    "Option C": "conjunction",
+    "Option D": "recall"
+  },
+  {
+    "image": "psychology",
+    "Option A": "think",
+    "Option B": "psychology",
+    "Option C": "desensitization",
+    "Option D": "psychogenesis"
+  },
+  {
+    "image": "punishment",
+    "Option A": "trial",
+    "Option B": "punishment",
+    "Option C": "enforcement",
+    "Option D": "keeping"
+  },
+  {
+    "image": "purgatory",
+    "Option A": "moral",
+    "Option B": "fervor",
+    "Option C": "purgatory",
+    "Option D": "hellhole"
+  },
+  {
+    "image": "purity",
+    "Option A": "purity",
+    "Option B": "beauty",
+    "Option C": "seasonal",
+    "Option D": "goodness"
+  },
+  {
+    "image": "pyromania",
+    "Option A": "doomsday",
+    "Option B": "disaster",
+    "Option C": "pyromania",
+    "Option D": "intensity"
+  },
+  {
+    "image": "queer",
+    "Option A": "empathy",
+    "Option B": "diversity",
+    "Option C": "inclusion",
+    "Option D": "queer"
+  },
+  {
+    "image": "question",
+    "Option A": "know",
+    "Option B": "assessment",
+    "Option C": "phrase",
+    "Option D": "question"
+  },
+  {
+    "image": "quiet",
+    "Option A": "quiet",
+    "Option B": "spiritual",
+    "Option C": "awareness",
+    "Option D": "enlightened"
+  },
+  {
+    "image": "radioactivity",
+    "Option A": "armageddon",
+    "Option B": "intensity",
+    "Option C": "radioactivity",
+    "Option D": "trouble"
+  },
+  {
+    "image": "rage",
+    "Option A": "discontent",
+    "Option B": "willing",
+    "Option C": "scorn",
+    "Option D": "rage"
+  },
+  {
+    "image": "rally",
+    "Option A": "solidarity",
+    "Option B": "minority",
+    "Option C": "protest",
+    "Option D": "rally"
+  },
+  {
+    "image": "ramadan",
+    "Option A": "ramadan",
+    "Option B": "deity",
+    "Option C": "worship",
+    "Option D": "prayer"
+  },
+  {
+    "image": "rank",
+    "Option A": "rank",
+    "Option B": "dedication",
+    "Option C": "competence",
+    "Option D": "glory"
+  },
+  {
+    "image": "rate",
+    "Option A": "rate",
+    "Option B": "analysis",
+    "Option C": "estimate",
+    "Option D": "transfer"
+  },
+  {
+    "image": "raw",
+    "Option A": "range",
+    "Option B": "raw",
+    "Option C": "chef",
+    "Option D": "vitality"
+  },
+  {
+    "image": "reaction",
+    "Option A": "science",
+    "Option B": "theory",
+    "Option C": "hydrolysis",
+    "Option D": "reaction"
+  },
+  {
+    "image": "readership",
+    "Option A": "readership",
+    "Option B": "intellectual",
+    "Option C": "reference",
+    "Option D": "curriculum"
+  },
+  {
+    "image": "ready",
+    "Option A": "duration",
+    "Option B": "ready",
+    "Option C": "thursday",
+    "Option D": "tomorrow"
+  },
+  {
+    "image": "relative",
+    "Option A": "relative",
+    "Option B": "ancestors",
+    "Option C": "regeneration",
+    "Option D": "heredity"
+  },
+  {
+    "image": "relief",
+    "Option A": "alert",
+    "Option B": "specialty",
+    "Option C": "condition",
+    "Option D": "relief"
+  },
+  {
+    "image": "religion",
+    "Option A": "religion",
+    "Option B": "brethren",
+    "Option C": "holy",
+    "Option D": "catholic"
+  },
+  {
+    "image": "religious",
+    "Option A": "holiness",
+    "Option B": "enlightened",
+    "Option C": "christian",
+    "Option D": "religious"
+  },
+  {
+    "image": "remark",
+    "Option A": "seminar",
+    "Option B": "remark",
+    "Option C": "administration",
+    "Option D": "business"
+  },
+  {
+    "image": "remorse",
+    "Option A": "woe",
+    "Option B": "vicinity",
+    "Option C": "sorrow",
+    "Option D": "remorse"
+  },
+  {
+    "image": "renaissance",
+    "Option A": "deity",
+    "Option B": "myth",
+    "Option C": "sahara",
+    "Option D": "renaissance"
+  },
+  {
+    "image": "repentance",
+    "Option A": "christian",
+    "Option B": "repentance",
+    "Option C": "penance",
+    "Option D": "holiness"
+  },
+  {
+    "image": "risk",
+    "Option A": "probable",
+    "Option B": "analysis",
+    "Option C": "compulsion",
+    "Option D": "risk"
+  },
+  {
+    "image": "roman",
+    "Option A": "law",
+    "Option B": "chosen",
+    "Option C": "roman",
+    "Option D": "mythology"
+  },
+  {
+    "image": "romance",
+    "Option A": "sensitiveness",
+    "Option B": "romantic",
+    "Option C": "lull",
+    "Option D": "romance"
+  },
+  {
+    "image": "romantic",
+    "Option A": "romantic",
+    "Option B": "romance",
+    "Option C": "anniversary",
+    "Option D": "desire"
+  },
+  {
+    "image": "saint",
+    "Option A": "heaven",
+    "Option B": "priesthood",
+    "Option C": "saint",
+    "Option D": "salvation"
+  },
+  {
+    "image": "schedule",
+    "Option A": "meantime",
+    "Option B": "moment",
+    "Option C": "work",
+    "Option D": "schedule"
+  },
+  {
+    "image": "science",
+    "Option A": "science",
+    "Option B": "experiment",
+    "Option C": "reaction",
+    "Option D": "hydrolysis"
+  },
+  {
+    "image": "search",
+    "Option A": "violence",
+    "Option B": "custody",
+    "Option C": "realism",
+    "Option D": "search"
+  },
+  {
+    "image": "seasonal",
+    "Option A": "solitude",
+    "Option B": "seasonal",
+    "Option C": "budding",
+    "Option D": "purity"
+  },
+  {
+    "image": "sin",
+    "Option A": "evil",
+    "Option B": "killer",
+    "Option C": "hellhole",
+    "Option D": "sin"
+  },
+  {
+    "image": "socialist",
+    "Option A": "nationalist",
+    "Option B": "general",
+    "Option C": "regime",
+    "Option D": "socialist"
+  },
+  {
+    "image": "solidarity",
+    "Option A": "empathy",
+    "Option B": "solidarity",
+    "Option C": "inclusion",
+    "Option D": "rally"
+  },
+  {
+    "image": "solitude",
+    "Option A": "starting",
+    "Option B": "seasonal",
+    "Option C": "bliss",
+    "Option D": "solitude"
+  },
+  {
+    "image": "solstice",
+    "Option A": "exuberance",
+    "Option B": "solstice",
+    "Option C": "excitement",
+    "Option D": "bicentennial"
+  },
+  {
+    "image": "soul",
+    "Option A": "soul",
+    "Option B": "heaven",
+    "Option C": "divine",
+    "Option D": "holy"
+  },
+  {
+    "image": "sounding",
+    "Option A": "performance",
+    "Option B": "sounding",
+    "Option C": "drama",
+    "Option D": "theme"
+  },
+  {
+    "image": "sovereign",
+    "Option A": "chosen",
+    "Option B": "nobility",
+    "Option C": "almighty",
+    "Option D": "sovereign"
+  },
+  {
+    "image": "sovereignty",
+    "Option A": "nobility",
+    "Option B": "sovereignty",
+    "Option C": "nationalism",
+    "Option D": "principality"
+  },
+  {
+    "image": "soviet",
+    "Option A": "nationalism",
+    "Option B": "yesterday",
+    "Option C": "revolutionary",
+    "Option D": "soviet"
+  },
+  {
+    "image": "spirit",
+    "Option A": "divine",
+    "Option B": "soul",
+    "Option C": "spirit",
+    "Option D": "syndrome"
+  },
+  {
+    "image": "spiritual",
+    "Option A": "spiritual",
+    "Option B": "buddhism",
+    "Option C": "quiet",
+    "Option D": "morning"
+  },
+  {
+    "image": "strategy",
+    "Option A": "reign",
+    "Option B": "plan",
+    "Option C": "brave",
+    "Option D": "strategy"
+  },
+  {
+    "image": "strength",
+    "Option A": "labor",
+    "Option B": "lean",
+    "Option C": "construct",
+    "Option D": "strength"
+  },
+  {
+    "image": "strife",
+    "Option A": "ascension",
+    "Option B": "heaven",
+    "Option C": "strife",
+    "Option D": "salvation"
+  },
+  {
+    "image": "struggle",
+    "Option A": "struggle",
+    "Option B": "gloom",
+    "Option C": "thought",
+    "Option D": "over"
+  },
+  {
+    "image": "subtropics",
+    "Option A": "comprehensive",
+    "Option B": "downtime",
+    "Option C": "relaxation",
+    "Option D": "subtropics"
+  },
+  {
+    "image": "succession",
+    "Option A": "genius",
+    "Option B": "succession",
+    "Option C": "dynasty",
+    "Option D": "dominance"
+  },
+  {
+    "image": "superior",
+    "Option A": "chosen",
+    "Option B": "superior",
+    "Option C": "satisfaction",
+    "Option D": "heir"
+  },
+  {
+    "image": "superiority",
+    "Option A": "outset",
+    "Option B": "morale",
+    "Option C": "ambition",
+    "Option D": "superiority"
+  },
+  {
+    "image": "supernatural",
+    "Option A": "danger",
+    "Option B": "private",
+    "Option C": "supernatural",
+    "Option D": "almighty"
+  },
+  {
+    "image": "supporting",
+    "Option A": "friend",
+    "Option B": "supporting",
+    "Option C": "understanding",
+    "Option D": "manipulating"
+  },
+  {
+    "image": "suppression",
+    "Option A": "crime",
+    "Option B": "punishment",
+    "Option C": "capture",
+    "Option D": "suppression"
+  },
+  {
+    "image": "supremacy",
+    "Option A": "chosen",
+    "Option B": "reign",
+    "Option C": "principality",
+    "Option D": "supremacy"
+  },
+  {
+    "image": "surprise",
+    "Option A": "offering",
+    "Option B": "enthusiasm",
+    "Option C": "surprise",
+    "Option D": "gladness"
+  },
+  {
+    "image": "surrender",
+    "Option A": "peacetime",
+    "Option B": "surrender",
+    "Option C": "apostle",
+    "Option D": "repentance"
+  },
+  {
+    "image": "suspense",
+    "Option A": "suspense",
+    "Option B": "killer",
+    "Option C": "fright",
+    "Option D": "horror"
+  },
+  {
+    "image": "suspicion",
+    "Option A": "suspicion",
+    "Option B": "why",
+    "Option C": "expert",
+    "Option D": "possibility"
+  },
+  {
+    "image": "symmetry",
+    "Option A": "symmetry",
+    "Option B": "microevolution",
+    "Option C": "life",
+    "Option D": "biosynthesis"
+  },
+  {
+    "image": "sympathy",
+    "Option A": "discrimination",
+    "Option B": "benevolence",
+    "Option C": "sympathy",
+    "Option D": "dependent"
+  },
+  {
+    "image": "syndicate",
+    "Option A": "syndicate",
+    "Option B": "acquisition",
+    "Option C": "asset",
+    "Option D": "economy"
+  },
+  {
+    "image": "talent",
+    "Option A": "harmony",
+    "Option B": "interval",
+    "Option C": "score",
+    "Option D": "talent"
+  },
+  {
+    "image": "tall",
+    "Option A": "establishment",
+    "Option B": "temporal",
+    "Option C": "nighttime",
+    "Option D": "tall"
+  },
+  {
+    "image": "teacher",
+    "Option A": "understanding",
+    "Option B": "curriculum",
+    "Option C": "derivation",
+    "Option D": "teacher"
+  },
+  {
+    "image": "temporal",
+    "Option A": "millisecond",
+    "Option B": "times",
+    "Option C": "temporal",
+    "Option D": "lifespan"
+  },
+  {
+    "image": "tenderness",
+    "Option A": "urge",
+    "Option B": "tenderness",
+    "Option C": "romantic",
+    "Option D": "sensitive"
+  },
+  {
+    "image": "territorial",
+    "Option A": "nationality",
+    "Option B": "territorial",
+    "Option C": "locale",
+    "Option D": "latitude"
+  },
+  {
+    "image": "testament",
+    "Option A": "christian",
+    "Option B": "divinity",
+    "Option C": "devotion",
+    "Option D": "testament"
+  },
+  {
+    "image": "testimony",
+    "Option A": "testimony",
+    "Option B": "tribunal",
+    "Option C": "trusteeship",
+    "Option D": "justification"
+  },
+  {
+    "image": "thankfulness",
+    "Option A": "holiday",
+    "Option B": "passover",
+    "Option C": "gathering",
+    "Option D": "thankfulness"
+  },
+  {
+    "image": "thanksgiving",
+    "Option A": "happiness",
+    "Option B": "december",
+    "Option C": "noel",
+    "Option D": "thanksgiving"
+  },
+  {
+    "image": "theme",
+    "Option A": "sounding",
+    "Option B": "interlude",
+    "Option C": "theme",
+    "Option D": "listening"
+  },
+  {
+    "image": "theology",
+    "Option A": "sermon",
+    "Option B": "theology",
+    "Option C": "religion",
+    "Option D": "devotion"
+  },
+  {
+    "image": "theory",
+    "Option A": "synthesis",
+    "Option B": "testing",
+    "Option C": "reaction",
+    "Option D": "theory"
+  },
+  {
+    "image": "therapy",
+    "Option A": "timid",
+    "Option B": "idle",
+    "Option C": "therapy",
+    "Option D": "afternoons"
+  },
+  {
+    "image": "think",
+    "Option A": "guess",
+    "Option B": "recall",
+    "Option C": "think",
+    "Option D": "revelation"
+  },
+  {
+    "image": "thinking",
+    "Option A": "understanding",
+    "Option B": "thinking",
+    "Option C": "guess",
+    "Option D": "recall"
+  },
+  {
+    "image": "thirst",
+    "Option A": "wonder",
+    "Option B": "thirst",
+    "Option C": "zenith",
+    "Option D": "starting"
+  },
+  {
+    "image": "thought",
+    "Option A": "thought",
+    "Option B": "guess",
+    "Option C": "mind",
+    "Option D": "confusion"
+  },
+  {
+    "image": "threat",
+    "Option A": "radioactivity",
+    "Option B": "secret",
+    "Option C": "trouble",
+    "Option D": "threat"
+  },
+  {
+    "image": "thrill",
+    "Option A": "acclimation",
+    "Option B": "thrill",
+    "Option C": "exile",
+    "Option D": "magnitude"
+  },
+  {
+    "image": "times",
+    "Option A": "duration",
+    "Option B": "times",
+    "Option C": "lifespan",
+    "Option D": "temporal"
+  },
+  {
+    "image": "timing",
+    "Option A": "nanosecond",
+    "Option B": "timing",
+    "Option C": "tomorrow",
+    "Option D": "ready"
+  },
+  {
+    "image": "tolerance",
+    "Option A": "happiness",
+    "Option B": "tolerance",
+    "Option C": "diversity",
+    "Option D": "pride"
+  },
+  {
+    "image": "tough",
+    "Option A": "coolness",
+    "Option B": "lean",
+    "Option C": "tough",
+    "Option D": "grudge"
+  },
+  {
+    "image": "tour",
+    "Option A": "tour",
+    "Option B": "dimension",
+    "Option C": "seeking",
+    "Option D": "finding"
+  },
+  {
+    "image": "trade",
+    "Option A": "assemblage",
+    "Option B": "farm",
+    "Option C": "heartland",
+    "Option D": "trade"
+  },
+  {
+    "image": "trading",
+    "Option A": "progress",
+    "Option B": "metropolitan",
+    "Option C": "trading",
+    "Option D": "public"
+  },
+  {
+    "image": "tradition",
+    "Option A": "goddess",
+    "Option B": "zen",
+    "Option C": "tradition",
+    "Option D": "sanctum"
+  },
+  {
+    "image": "training",
+    "Option A": "lean",
+    "Option B": "training",
+    "Option C": "health",
+    "Option D": "vigor"
+  },
+  {
+    "image": "translation",
+    "Option A": "translation",
+    "Option B": "faction",
+    "Option C": "reasoning",
+    "Option D": "yesteryear"
+  },
+  {
+    "image": "treatment",
+    "Option A": "medical",
+    "Option B": "treatment",
+    "Option C": "curing",
+    "Option D": "ill"
+  },
+  {
+    "image": "treaty",
+    "Option A": "caucus",
+    "Option B": "government",
+    "Option C": "republic",
+    "Option D": "treaty"
+  },
+  {
+    "image": "trial",
+    "Option A": "reform",
+    "Option B": "trial",
+    "Option C": "judiciary",
+    "Option D": "principles"
+  },
+  {
+    "image": "tribunal",
+    "Option A": "principles",
+    "Option B": "honesty",
+    "Option C": "judiciary",
+    "Option D": "tribunal"
+  },
+  {
+    "image": "tribune",
+    "Option A": "tone",
+    "Option B": "tribune",
+    "Option C": "glee",
+    "Option D": "overcompensation"
+  },
+  {
+    "image": "tropic",
+    "Option A": "beauty",
+    "Option B": "solitude",
+    "Option C": "tropic",
+    "Option D": "alleviation"
+  },
+  {
+    "image": "trouble",
+    "Option A": "trouble",
+    "Option B": "specialty",
+    "Option C": "disease",
+    "Option D": "ill"
+  },
+  {
+    "image": "trustee",
+    "Option A": "acquisition",
+    "Option B": "professional",
+    "Option C": "trustee",
+    "Option D": "counseling"
+  },
+  {
+    "image": "trusteeship",
+    "Option A": "legislation",
+    "Option B": "justification",
+    "Option C": "advocate",
+    "Option D": "trusteeship"
+  },
+  {
+    "image": "truth",
+    "Option A": "advocate",
+    "Option B": "truth",
+    "Option C": "think",
+    "Option D": "legislation"
+  },
+  {
+    "image": "tyranny",
+    "Option A": "principality",
+    "Option B": "nobility",
+    "Option C": "tyranny",
+    "Option D": "monarchy"
+  },
+  {
+    "image": "uncertainty",
+    "Option A": "ignorance",
+    "Option B": "inquiry",
+    "Option C": "problem",
+    "Option D": "uncertainty"
+  },
+  {
+    "image": "understanding",
+    "Option A": "reference",
+    "Option B": "substitute",
+    "Option C": "faction",
+    "Option D": "understanding"
+  },
+  {
+    "image": "underworld",
+    "Option A": "underworld",
+    "Option B": "doomed",
+    "Option C": "temper",
+    "Option D": "cult"
+  },
+  {
+    "image": "unemployed",
+    "Option A": "unemployed",
+    "Option B": "revelation",
+    "Option C": "criteria",
+    "Option D": "storage"
+  },
+  {
+    "image": "unemployment",
+    "Option A": "position",
+    "Option B": "furlough",
+    "Option C": "thursday",
+    "Option D": "unemployment"
+  },
+  {
+    "image": "unhappiness",
+    "Option A": "abuse",
+    "Option B": "unhappiness",
+    "Option C": "glance",
+    "Option D": "uneasiness"
+  },
+  {
+    "image": "union",
+    "Option A": "union",
+    "Option B": "virgin",
+    "Option C": "closer",
+    "Option D": "fidelity"
+  },
+  {
+    "image": "unity",
+    "Option A": "imagination",
+    "Option B": "beauty",
+    "Option C": "unity",
+    "Option D": "sensitive"
+  },
+  {
+    "image": "university",
+    "Option A": "university",
+    "Option B": "independent",
+    "Option C": "insight",
+    "Option D": "reasoning"
+  },
+  {
+    "image": "unknown",
+    "Option A": "unknown",
+    "Option B": "magic",
+    "Option C": "problem",
+    "Option D": "discovery"
+  },
+  {
+    "image": "vacation",
+    "Option A": "downtime",
+    "Option B": "vacation",
+    "Option C": "nationality",
+    "Option D": "territorial"
+  },
+  {
+    "image": "value",
+    "Option A": "finance",
+    "Option B": "value",
+    "Option C": "syndicate",
+    "Option D": "incentive"
+  },
+  {
+    "image": "vanity",
+    "Option A": "career",
+    "Option B": "feminization",
+    "Option C": "vanity",
+    "Option D": "clientele"
+  },
+  {
+    "image": "variety",
+    "Option A": "spoiling",
+    "Option B": "need",
+    "Option C": "ramadan",
+    "Option D": "variety"
+  },
+  {
+    "image": "velocity",
+    "Option A": "aerospace",
+    "Option B": "impulse",
+    "Option C": "autonomy",
+    "Option D": "velocity"
+  },
+  {
+    "image": "veneration",
+    "Option A": "christian",
+    "Option B": "prayer",
+    "Option C": "holiness",
+    "Option D": "veneration"
+  },
+  {
+    "image": "virtue",
+    "Option A": "heaven",
+    "Option B": "salvation",
+    "Option C": "virtue",
+    "Option D": "afterlife"
+  },
+  {
+    "image": "vitality",
+    "Option A": "practice",
+    "Option B": "vitality",
+    "Option C": "activity",
+    "Option D": "raw"
+  },
+  {
+    "image": "void",
+    "Option A": "fear",
+    "Option B": "void",
+    "Option C": "science",
+    "Option D": "magic"
+  },
+  {
+    "image": "waiting",
+    "Option A": "waiting",
+    "Option B": "public",
+    "Option C": "learning",
+    "Option D": "collective"
+  },
+  {
+    "image": "war",
+    "Option A": "ruin",
+    "Option B": "war",
+    "Option C": "deterrence",
+    "Option D": "disaster"
+  },
+  {
+    "image": "wartime",
+    "Option A": "disaster",
+    "Option B": "revolutionary",
+    "Option C": "doomsday",
+    "Option D": "wartime"
+  },
+  {
+    "image": "wealth",
+    "Option A": "wealth",
+    "Option B": "velocity",
+    "Option C": "exclusive",
+    "Option D": "privilege"
+  },
+  {
+    "image": "wed",
+    "Option A": "virgin",
+    "Option B": "married",
+    "Option C": "anniversary",
+    "Option D": "wed"
+  },
+  {
+    "image": "west",
+    "Option A": "view",
+    "Option B": "sahara",
+    "Option C": "west",
+    "Option D": "forward"
+  },
+  {
+    "image": "western",
+    "Option A": "western",
+    "Option B": "boundary",
+    "Option C": "gray",
+    "Option D": "view"
+  },
+  {
+    "image": "westernization",
+    "Option A": "township",
+    "Option B": "comedy",
+    "Option C": "second",
+    "Option D": "westernization"
+  },
+  {
+    "image": "whereabouts",
+    "Option A": "moment",
+    "Option B": "whereabouts",
+    "Option C": "duration",
+    "Option D": "times"
+  },
+  {
+    "image": "who",
+    "Option A": "scanning",
+    "Option B": "who",
+    "Option C": "secret",
+    "Option D": "disaffection"
+  },
+  {
+    "image": "widowhood",
+    "Option A": "demise",
+    "Option B": "fright",
+    "Option C": "doomed",
+    "Option D": "widowhood"
+  },
+  {
+    "image": "wild",
+    "Option A": "brave",
+    "Option B": "species",
+    "Option C": "wild",
+    "Option D": "nobility"
+  },
+  {
+    "image": "wildness",
+    "Option A": "wildness",
+    "Option B": "saturation",
+    "Option C": "solitary",
+    "Option D": "outskirts"
+  },
+  {
+    "image": "willing",
+    "Option A": "presence",
+    "Option B": "scorn",
+    "Option C": "willing",
+    "Option D": "approval"
+  },
+  {
+    "image": "winner",
+    "Option A": "winner",
+    "Option B": "glory",
+    "Option C": "fame",
+    "Option D": "rank"
+  },
+  {
+    "image": "wisdom",
+    "Option A": "discovery",
+    "Option B": "genius",
+    "Option C": "wisdom",
+    "Option D": "initial"
+  },
+  {
+    "image": "wise",
+    "Option A": "invention",
+    "Option B": "mind",
+    "Option C": "science",
+    "Option D": "wise"
+  },
+  {
+    "image": "wish",
+    "Option A": "lifetime",
+    "Option B": "gladness",
+    "Option C": "exuberance",
+    "Option D": "wish"
+  },
+  {
+    "image": "wishing",
+    "Option A": "lifetime",
+    "Option B": "wishing",
+    "Option C": "gladness",
+    "Option D": "exuberance"
+  },
+  {
+    "image": "wit",
+    "Option A": "wit",
+    "Option B": "presence",
+    "Option C": "illumination",
+    "Option D": "inquiry"
+  },
+  {
+    "image": "withdrawal",
+    "Option A": "debtor",
+    "Option B": "withdrawal",
+    "Option C": "guilt",
+    "Option D": "dissatisfaction"
+  },
+  {
+    "image": "woe",
+    "Option A": "gloom",
+    "Option B": "pity",
+    "Option C": "circulation",
+    "Option D": "woe"
+  },
+  {
+    "image": "work",
+    "Option A": "work",
+    "Option B": "workweek",
+    "Option C": "schedule",
+    "Option D": "quarterly"
+  },
+  {
+    "image": "workweek",
+    "Option A": "workweek",
+    "Option B": "quarterly",
+    "Option C": "accounting",
+    "Option D": "analysis"
+  },
+  {
+    "image": "worse",
+    "Option A": "feelings",
+    "Option B": "worse",
+    "Option C": "understand",
+    "Option D": "general"
+  },
+  {
+    "image": "worship",
+    "Option A": "christianity",
+    "Option B": "faith",
+    "Option C": "testament",
+    "Option D": "worship"
+  },
+  {
+    "image": "worthy",
+    "Option A": "autonomy",
+    "Option B": "worthy",
+    "Option C": "silence",
+    "Option D": "bourgeois"
+  },
+  {
+    "image": "wrath",
+    "Option A": "fear",
+    "Option B": "intensity",
+    "Option C": "trembling",
+    "Option D": "wrath"
+  },
+  {
+    "image": "year",
+    "Option A": "tomorrow",
+    "Option B": "moment",
+    "Option C": "timing",
+    "Option D": "year"
+  },
+  {
+    "image": "yearning",
+    "Option A": "yearning",
+    "Option B": "appreciation",
+    "Option C": "stimulus",
+    "Option D": "gloom"
+  },
+  {
+    "image": "yesterday",
+    "Option A": "temporal",
+    "Option B": "yesterday",
+    "Option C": "latitude",
+    "Option D": "compare"
+  },
+  {
+    "image": "yesteryear",
+    "Option A": "intellectual",
+    "Option B": "editorial",
+    "Option C": "yesteryear",
+    "Option D": "idle"
+  },
+  {
+    "image": "youth",
+    "Option A": "medium",
+    "Option B": "youth",
+    "Option C": "lull",
+    "Option D": "practice"
+  },
+  {
+    "image": "zoology",
+    "Option A": "dear",
+    "Option B": "great",
+    "Option C": "alleviation",
+    "Option D": "zoology"
+  }
+]
